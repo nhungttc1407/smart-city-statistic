@@ -1,0 +1,156 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1789367144332,
+  "projectRoot": "/Users/excelsior/Desktop/xcelsior/dataset",
+  "techStack": {
+    "languages": [
+      {
+        "name": "Python",
+        "version": null,
+        "confidence": "high",
+        "markers": [
+          "requirements.txt"
+        ]
+      }
+    ],
+    "frameworks": [],
+    "packageManager": "pip",
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [],
+    "gitBranches": null
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "__pycache__": {
+      "path": "__pycache__",
+      "purpose": null,
+      "fileCount": 5,
+      "lastAccessed": 1789367144317,
+      "keyFiles": [
+        "classify.cpython-314.pyc",
+        "classify_combined.cpython-314.pyc",
+        "classify_sector.cpython-314.pyc",
+        "ner_glm_pipeline.cpython-314.pyc",
+        "ner_validate.cpython-314.pyc"
+      ]
+    },
+    "figures": {
+      "path": "figures",
+      "purpose": null,
+      "fileCount": 18,
+      "lastAccessed": 1789367144317,
+      "keyFiles": [
+        "answer_chars.png",
+        "answer_words.png",
+        "classification_answer_only.png",
+        "classification_both.png",
+        "classification_combined_split.png"
+      ]
+    },
+    "path": {
+      "path": "path",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1789367144318,
+      "keyFiles": []
+    }
+  },
+  "hotPaths": [
+    {
+      "path": "src/ner_glm/ner_glm_pipeline.py",
+      "accessCount": 4,
+      "lastAccessed": 1789544588944,
+      "type": "file"
+    },
+    {
+      "path": "ner.py",
+      "accessCount": 3,
+      "lastAccessed": 1787674598105,
+      "type": "file"
+    },
+    {
+      "path": "requirements.txt",
+      "accessCount": 2,
+      "lastAccessed": 1786873258238,
+      "type": "file"
+    },
+    {
+      "path": "int2_client.py",
+      "accessCount": 2,
+      "lastAccessed": 1787674990045,
+      "type": "file"
+    },
+    {
+      "path": "src/topic/topic_model.py",
+      "accessCount": 2,
+      "lastAccessed": 1789544267124,
+      "type": "file"
+    },
+    {
+      "path": "src/topic/topic_combined.py",
+      "accessCount": 2,
+      "lastAccessed": 1789544269176,
+      "type": "file"
+    },
+    {
+      "path": "src/topic/classify.py",
+      "accessCount": 2,
+      "lastAccessed": 1789544274543,
+      "type": "file"
+    },
+    {
+      "path": "src/topic/classify_combined.py",
+      "accessCount": 2,
+      "lastAccessed": 1789544275962,
+      "type": "file"
+    },
+    {
+      "path": "src/topic/classify_sector.py",
+      "accessCount": 2,
+      "lastAccessed": 1789544277421,
+      "type": "file"
+    },
+    {
+      "path": "src/topic/sector_analysis.py",
+      "accessCount": 2,
+      "lastAccessed": 1789544280034,
+      "type": "file"
+    },
+    {
+      "path": "ner_glm_demo.py",
+      "accessCount": 1,
+      "lastAccessed": 1787675055443,
+      "type": "file"
+    },
+    {
+      "path": "ner_glm_pipeline.py",
+      "accessCount": 1,
+      "lastAccessed": 1789367220219,
+      "type": "file"
+    },
+    {
+      "path": "README.md",
+      "accessCount": 1,
+      "lastAccessed": 1789544610745,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}

@@ -1,0 +1,22 @@
+# Raw data (large files, not versioned)
+data/
+
+# Runtime state
+outputs/ner_glm/ner_glm_checkpoint.json
+outputs/ner_glm/ner_glm_full.log
+outputs/ner_glm/unverified_entities.csv
+*.pid
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+.venv/
+.venv312/
+venv/
+
+# Misc
+.DS_Store
+path/
+__pycache__/

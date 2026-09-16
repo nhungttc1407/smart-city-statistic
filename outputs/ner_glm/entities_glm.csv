@@ -1,0 +1,1186 @@
+msg_id,conversation_id,conversation_turn,source,entity_text,label
+0000001,dfMessenger-0000bf60-6230-4787-b7f5-34958aaa9824,2,agent,Netanya Municipality,LOCATION
+0000001,dfMessenger-0000bf60-6230-4787-b7f5-34958aaa9824,2,agent,Trial Selection Department,DEPARTMENT
+0000001,dfMessenger-0000bf60-6230-4787-b7f5-34958aaa9824,2,agent,Trial Selection Department,DEPARTMENT
+0000001,dfMessenger-0000bf60-6230-4787-b7f5-34958aaa9824,2,agent,09-8606514,CONTACT_INFO
+0000001,dfMessenger-0000bf60-6230-4787-b7f5-34958aaa9824,2,agent,153-9-8603375,CONTACT_INFO
+0000003,dfMessenger-00012ed0-bfcf-4e95-896e-224607e3b826,4,agent,Freedom of Information Act,LAW_REGULATION
+0000005,dfMessenger-00012ed0-bfcf-4e95-896e-224607e3b826,3,agent,Student Registration Department,DEPARTMENT
+0000005,dfMessenger-00012ed0-bfcf-4e95-896e-224607e3b826,3,agent,Netanya Municipality,LOCATION
+0000005,dfMessenger-00012ed0-bfcf-4e95-896e-224607e3b826,3,agent,09-8362821,CONTACT_INFO
+0000005,dfMessenger-00012ed0-bfcf-4e95-896e-224607e3b826,3,agent,09-8362896,CONTACT_INFO
+0000005,dfMessenger-00012ed0-bfcf-4e95-896e-224607e3b826,3,agent,Ministry of the Interior,DEPARTMENT
+0000006,dfMessenger-00012ed0-bfcf-4e95-896e-224607e3b826,2,user,Ilan Ramon School,LOCATION
+0000007,dfMessenger-00012ed0-bfcf-4e95-896e-224607e3b826,2,agent,July 2024,DATE_TIME
+0000008,dfMessenger-0001582e-3d3a-464a-b81a-8fedc89be136,2,user,32 Hefen Street,LOCATION
+0000009,dfMessenger-0001582e-3d3a-464a-b81a-8fedc89be136,2,agent,32 HaGefen Street,LOCATION
+0000009,dfMessenger-0001582e-3d3a-464a-b81a-8fedc89be136,2,agent,Netanya Municipality,LOCATION
+0000009,dfMessenger-0001582e-3d3a-464a-b81a-8fedc89be136,2,agent,Shelter No. 42,SERVICE_REQUEST
+0000009,dfMessenger-0001582e-3d3a-464a-b81a-8fedc89be136,2,agent,32 Kaplan Street,LOCATION
+0000009,dfMessenger-0001582e-3d3a-464a-b81a-8fedc89be136,2,agent,District 3,LOCATION
+0000009,dfMessenger-0001582e-3d3a-464a-b81a-8fedc89be136,2,agent,Neot Ganim,LOCATION
+0000009,dfMessenger-0001582e-3d3a-464a-b81a-8fedc89be136,2,agent,Shelter No. 48,SERVICE_REQUEST
+0000009,dfMessenger-0001582e-3d3a-464a-b81a-8fedc89be136,2,agent,32 Ovadia Avraham HaCohen Street,LOCATION
+0000009,dfMessenger-0001582e-3d3a-464a-b81a-8fedc89be136,2,agent,District 3,LOCATION
+0000009,dfMessenger-0001582e-3d3a-464a-b81a-8fedc89be136,2,agent,Neot Ganim,LOCATION
+0000010,dfMessenger-00024918-df9c-4f26-9ca5-325bc09a5b07,3,user,Max Nordau Street,LOCATION
+0000011,dfMessenger-00024918-df9c-4f26-9ca5-325bc09a5b07,3,agent,Max Nordau Street,LOCATION
+0000011,dfMessenger-00024918-df9c-4f26-9ca5-325bc09a5b07,3,agent,Netanya Municipality,LOCATION
+0000011,dfMessenger-00024918-df9c-4f26-9ca5-325bc09a5b07,3,agent,21 days,DATE_TIME
+0000011,dfMessenger-00024918-df9c-4f26-9ca5-325bc09a5b07,3,agent,Camera Department,DEPARTMENT
+0000011,dfMessenger-00024918-df9c-4f26-9ca5-325bc09a5b07,3,agent,09-7908086,CONTACT_INFO
+0000012,dfMessenger-00024918-df9c-4f26-9ca5-325bc09a5b07,2,user,Max Nordau Street,LOCATION
+0000013,dfMessenger-00024918-df9c-4f26-9ca5-325bc09a5b07,2,agent,Max Nordau Street,LOCATION
+0000013,dfMessenger-00024918-df9c-4f26-9ca5-325bc09a5b07,2,agent,Netanya Municipality,LOCATION
+0000013,dfMessenger-00024918-df9c-4f26-9ca5-325bc09a5b07,2,agent,76-82 Petah Tikva Blvd.,LOCATION
+0000013,dfMessenger-00024918-df9c-4f26-9ca5-325bc09a5b07,2,agent,25-31 Herzl St.,LOCATION
+0000013,dfMessenger-00024918-df9c-4f26-9ca5-325bc09a5b07,2,agent,28-36 Herzl St.,LOCATION
+0000013,dfMessenger-00024918-df9c-4f26-9ca5-325bc09a5b07,2,agent,"Sunday, April 6, 2025",DATE_TIME
+0000013,dfMessenger-00024918-df9c-4f26-9ca5-325bc09a5b07,2,agent,Dizengoff-Herzl St.,LOCATION
+0000013,dfMessenger-00024918-df9c-4f26-9ca5-325bc09a5b07,2,agent,"Thursday, May 1, 2025",DATE_TIME
+0000013,dfMessenger-00024918-df9c-4f26-9ca5-325bc09a5b07,2,agent,"1-5, 2-4 Ussishkin St.",LOCATION
+0000013,dfMessenger-00024918-df9c-4f26-9ca5-325bc09a5b07,2,agent,60 Tom Lantos Blvd.,LOCATION
+0000013,dfMessenger-00024918-df9c-4f26-9ca5-325bc09a5b07,2,agent,Petah Tikva Blvd.,LOCATION
+0000013,dfMessenger-00024918-df9c-4f26-9ca5-325bc09a5b07,2,agent,20 minutes,DATE_TIME
+0000013,dfMessenger-00024918-df9c-4f26-9ca5-325bc09a5b07,2,agent,24-hour,DATE_TIME
+0000019,dfMessenger-0009c305-ba97-44e9-a546-fcf30fd0b367,2,agent,Netanya Municipality,LOCATION
+0000019,dfMessenger-0009c305-ba97-44e9-a546-fcf30fd0b367,2,agent,Resident Service Center,DEPARTMENT
+0000019,dfMessenger-0009c305-ba97-44e9-a546-fcf30fd0b367,2,agent,Netanya,LOCATION
+0000019,dfMessenger-0009c305-ba97-44e9-a546-fcf30fd0b367,2,agent,Sironit,LOCATION
+0000019,dfMessenger-0009c305-ba97-44e9-a546-fcf30fd0b367,2,agent,Poleg,LOCATION
+0000019,dfMessenger-0009c305-ba97-44e9-a546-fcf30fd0b367,2,agent,Kiryat Eliezer,LOCATION
+0000019,dfMessenger-0009c305-ba97-44e9-a546-fcf30fd0b367,2,agent,Kiryat Sapir,LOCATION
+0000019,dfMessenger-0009c305-ba97-44e9-a546-fcf30fd0b367,2,agent,20 NIS,MONEY_FEE
+0000021,dfMessenger-000a309f-8ed5-4be2-a646-857e8a708e47,2,agent,"Independence Day, 1.5.25",DATE_TIME
+0000021,dfMessenger-000a309f-8ed5-4be2-a646-857e8a708e47,2,agent,Winter Lake Park,LOCATION
+0000021,dfMessenger-000a309f-8ed5-4be2-a646-857e8a708e47,2,agent,Alexandroni Park,LOCATION
+0000021,dfMessenger-000a309f-8ed5-4be2-a646-857e8a708e47,2,agent,Hativat Alexandroni Street,LOCATION
+0000021,dfMessenger-000a309f-8ed5-4be2-a646-857e8a708e47,2,agent,Galei Yam,LOCATION
+0000021,dfMessenger-000a309f-8ed5-4be2-a646-857e8a708e47,2,agent,Renewed Trails Park,LOCATION
+0000021,dfMessenger-000a309f-8ed5-4be2-a646-857e8a708e47,2,agent,Bird Garden,LOCATION
+0000021,dfMessenger-000a309f-8ed5-4be2-a646-857e8a708e47,2,agent,Hatzoran Street,LOCATION
+0000021,dfMessenger-000a309f-8ed5-4be2-a646-857e8a708e47,2,agent,Ghavish Street,LOCATION
+0000021,dfMessenger-000a309f-8ed5-4be2-a646-857e8a708e47,2,agent,Kiryat Sapir Industrial Zone,LOCATION
+0000021,dfMessenger-000a309f-8ed5-4be2-a646-857e8a708e47,2,agent,Ovadia Garden,LOCATION
+0000021,dfMessenger-000a309f-8ed5-4be2-a646-857e8a708e47,2,agent,Ovadia Street,LOCATION
+0000021,dfMessenger-000a309f-8ed5-4be2-a646-857e8a708e47,2,agent,Neot Ganim,LOCATION
+0000021,dfMessenger-000a309f-8ed5-4be2-a646-857e8a708e47,2,agent,Heroes Garden,LOCATION
+0000021,dfMessenger-000a309f-8ed5-4be2-a646-857e8a708e47,2,agent,Heftziba Grove,LOCATION
+0000021,dfMessenger-000a309f-8ed5-4be2-a646-857e8a708e47,2,agent,Yitzhak Ben Hanan Street,LOCATION
+0000021,dfMessenger-000a309f-8ed5-4be2-a646-857e8a708e47,2,agent,Alkalai Grove,LOCATION
+0000021,dfMessenger-000a309f-8ed5-4be2-a646-857e8a708e47,2,agent,Alkalai Street,LOCATION
+0000021,dfMessenger-000a309f-8ed5-4be2-a646-857e8a708e47,2,agent,Neot Herzl,LOCATION
+0000021,dfMessenger-000a309f-8ed5-4be2-a646-857e8a708e47,2,agent,Narcissus Garden,LOCATION
+0000021,dfMessenger-000a309f-8ed5-4be2-a646-857e8a708e47,2,agent,Commissioner of Fire and Rescue for Israel,DEPARTMENT
+0000021,dfMessenger-000a309f-8ed5-4be2-a646-857e8a708e47,2,agent,"April 28, 2025",DATE_TIME
+0000021,dfMessenger-000a309f-8ed5-4be2-a646-857e8a708e47,2,agent,"May 7, 2025",DATE_TIME
+0000023,dfMessenger-000a7314-3d00-4f97-9eb7-132d02d8d224,2,agent,Resident Service Center,DEPARTMENT
+0000023,dfMessenger-000a7314-3d00-4f97-9eb7-132d02d8d224,2,agent,09-8604400,CONTACT_INFO
+0000025,dfMessenger-000d0f37-4e36-43c9-a73e-4bf0220b063b,2,agent,"2 Hatzoran Street, 1st floor",LOCATION
+0000025,dfMessenger-000d0f37-4e36-43c9-a73e-4bf0220b063b,2,agent,"""Ad HaBayt"" bus",SERVICE_REQUEST
+0000026,dfMessenger-000d8fe9-5f16-4792-a829-f7bfb4654037,3,user,Education Department,DEPARTMENT
+0000027,dfMessenger-000d8fe9-5f16-4792-a829-f7bfb4654037,3,agent,Netanya Municipality,LOCATION
+0000030,dfMessenger-000da99d-be24-482f-940f-083a1244722b,2,user,Block 8569,PERMIT_DOC
+0000031,dfMessenger-000da99d-be24-482f-940f-083a1244722b,2,agent,Block 8569,PERMIT_DOC
+0000031,dfMessenger-000da99d-be24-482f-940f-083a1244722b,2,agent,Block 8569,LOCATION
+0000032,dfMessenger-000f0afd-5c75-40a8-9f9c-b833dd793593,2,user,150 NIS,MONEY_FEE
+0000032,dfMessenger-000f0afd-5c75-40a8-9f9c-b833dd793593,2,user,monthly Pango,SERVICE_REQUEST
+0000032,dfMessenger-000f0afd-5c75-40a8-9f9c-b833dd793593,2,user,hourly Pango,SERVICE_REQUEST
+0000033,dfMessenger-000f0afd-5c75-40a8-9f9c-b833dd793593,2,agent,Pango,SERVICE_REQUEST
+0000033,dfMessenger-000f0afd-5c75-40a8-9f9c-b833dd793593,2,agent,Netanya Municipality,LOCATION
+0000034,dfMessenger-000fc943-d478-49c5-add8-8501f3e38db0,5,user,Netanya resident,SERVICE_REQUEST
+0000035,dfMessenger-000fc943-d478-49c5-add8-8501f3e38db0,5,agent,09-8604400 ext. 3,CONTACT_INFO
+0000035,dfMessenger-000fc943-d478-49c5-add8-8501f3e38db0,5,agent,Sunday-Thursday between 08:30-11:30,DATE_TIME
+0000035,dfMessenger-000fc943-d478-49c5-add8-8501f3e38db0,5,agent,Wednesday afternoon between 16:30-18:30,DATE_TIME
+0000035,dfMessenger-000fc943-d478-49c5-add8-8501f3e38db0,5,agent,Mondays and Tuesdays between 11:30-13:30,DATE_TIME
+0000035,dfMessenger-000fc943-d478-49c5-add8-8501f3e38db0,5,agent,Wednesdays and Thursdays between 11:30-12:30,DATE_TIME
+0000035,dfMessenger-000fc943-d478-49c5-add8-8501f3e38db0,5,agent,"2 Hatzoran Street, 1st floor, Netanya",LOCATION
+0000035,dfMessenger-000fc943-d478-49c5-add8-8501f3e38db0,5,agent,Netanya Resident Card,SERVICE_REQUEST
+0000037,dfMessenger-000fc943-d478-49c5-add8-8501f3e38db0,4,agent,Netanya Municipality Business Department,DEPARTMENT
+0000037,dfMessenger-000fc943-d478-49c5-add8-8501f3e38db0,4,agent,Suppliers Department,DEPARTMENT
+0000037,dfMessenger-000fc943-d478-49c5-add8-8501f3e38db0,4,agent,"Resident Service Center at 2 Hatzoran Street, 1st floor",LOCATION
+0000039,dfMessenger-000fc943-d478-49c5-add8-8501f3e38db0,3,agent,Affidavit of residence,PERMIT_DOC
+0000039,dfMessenger-000fc943-d478-49c5-add8-8501f3e38db0,3,agent,Copy of property tax bill,PERMIT_DOC
+0000039,dfMessenger-000fc943-d478-49c5-add8-8501f3e38db0,3,agent,Affidavit form for residential address in Netanya,PERMIT_DOC
+0000041,dfMessenger-000fc943-d478-49c5-add8-8501f3e38db0,2,agent,Photocopy of ID card,PERMIT_DOC
+0000041,dfMessenger-000fc943-d478-49c5-add8-8501f3e38db0,2,agent,Valid passport,PERMIT_DOC
+0000041,dfMessenger-000fc943-d478-49c5-add8-8501f3e38db0,2,agent,Photocopy of rental agreement,PERMIT_DOC
+0000041,dfMessenger-000fc943-d478-49c5-add8-8501f3e38db0,2,agent,Application for a resident card,PERMIT_DOC
+0000041,dfMessenger-000fc943-d478-49c5-add8-8501f3e38db0,2,agent,affidavit of residence,PERMIT_DOC
+0000041,dfMessenger-000fc943-d478-49c5-add8-8501f3e38db0,2,agent,copy of the property tax bill,PERMIT_DOC
+0000041,dfMessenger-000fc943-d478-49c5-add8-8501f3e38db0,2,agent,Affidavit form for residential address in Netanya,PERMIT_DOC
+0000042,dfMessenger-00104c8e-0be0-4df1-97d9-4a20c54198d0,2,user,East Netanya registration area,LOCATION
+0000043,dfMessenger-00104c8e-0be0-4df1-97d9-4a20c54198d0,2,agent,Kindergarten Registration Department,DEPARTMENT
+0000043,dfMessenger-00104c8e-0be0-4df1-97d9-4a20c54198d0,2,agent,Student Registration Department,DEPARTMENT
+0000043,dfMessenger-00104c8e-0be0-4df1-97d9-4a20c54198d0,2,agent,09-8362899,CONTACT_INFO
+0000043,dfMessenger-00104c8e-0be0-4df1-97d9-4a20c54198d0,2,agent,09-8362821,CONTACT_INFO
+0000043,dfMessenger-00104c8e-0be0-4df1-97d9-4a20c54198d0,2,agent,09-8362896,CONTACT_INFO
+0000044,dfMessenger-0012e3b8-b140-4a2e-addf-08f9587ce4b4,2,user,payment request for a report,SERVICE_REQUEST
+0000045,dfMessenger-0012e3b8-b140-4a2e-addf-08f9587ce4b4,2,agent,072-2755515,CONTACT_INFO
+0000045,dfMessenger-0012e3b8-b140-4a2e-addf-08f9587ce4b4,2,agent,09-8606514,CONTACT_INFO
+0000045,dfMessenger-0012e3b8-b140-4a2e-addf-08f9587ce4b4,2,agent,parking report,SERVICE_REQUEST
+0000045,dfMessenger-0012e3b8-b140-4a2e-addf-08f9587ce4b4,2,agent,Municipal By-Law,LAW_REGULATION
+0000047,dfMessenger-00134665-6a17-46fc-8252-98c1c890f28f,2,agent,076-5300943,CONTACT_INFO
+0000047,dfMessenger-00134665-6a17-46fc-8252-98c1c890f28f,2,agent,Revenue Department,DEPARTMENT
+0000047,dfMessenger-00134665-6a17-46fc-8252-98c1c890f28f,2,agent,"Sunday-Thursday, from 8:00 AM to 1:00 PM",DATE_TIME
+0000047,dfMessenger-00134665-6a17-46fc-8252-98c1c890f28f,2,agent,Wednesdays from 4:30 PM to 6:00 PM,DATE_TIME
+0000047,dfMessenger-00134665-6a17-46fc-8252-98c1c890f28f,2,agent,"Hatzoran 4A, 2nd floor, Entrance 7, Sapir Business and Technology Park, Netanya",LOCATION
+0000047,dfMessenger-00134665-6a17-46fc-8252-98c1c890f28f,2,agent,property tax,SERVICE_REQUEST
+0000048,dfMessenger-0014f6c4-9ae4-4fbd-ba91-b626343b5b1a,2,user,Agamim,LOCATION
+0000048,dfMessenger-0014f6c4-9ae4-4fbd-ba91-b626343b5b1a,2,user,Arki Lavie 18,LOCATION
+0000048,dfMessenger-0014f6c4-9ae4-4fbd-ba91-b626343b5b1a,2,user,property tax bills,SERVICE_REQUEST
+0000049,dfMessenger-0014f6c4-9ae4-4fbd-ba91-b626343b5b1a,2,agent,Revenue Department,DEPARTMENT
+0000049,dfMessenger-0014f6c4-9ae4-4fbd-ba91-b626343b5b1a,2,agent,076-5300943,CONTACT_INFO
+0000049,dfMessenger-0014f6c4-9ae4-4fbd-ba91-b626343b5b1a,2,agent,"4 HaTzoran, Elevator 7, 2nd floor, Poleg Industrial Zone, Netanya",LOCATION
+0000049,dfMessenger-0014f6c4-9ae4-4fbd-ba91-b626343b5b1a,2,agent,Sunday-Thursday from 8:00 AM to 1:00 PM,DATE_TIME
+0000049,dfMessenger-0014f6c4-9ae4-4fbd-ba91-b626343b5b1a,2,agent,Wednesdays (excluding August) from 4:30 PM to 6:00 PM,DATE_TIME
+0000049,dfMessenger-0014f6c4-9ae4-4fbd-ba91-b626343b5b1a,2,agent,property tax,SERVICE_REQUEST
+0000050,dfMessenger-0015be35-e107-4c78-9581-5232aa2d1e3d,3,user,Netanya,LOCATION
+0000051,dfMessenger-0015be35-e107-4c78-9581-5232aa2d1e3d,3,agent,Netanya Municipality,LAW_REGULATION
+0000052,dfMessenger-0015be35-e107-4c78-9581-5232aa2d1e3d,2,user,Netanya,LOCATION
+0000053,dfMessenger-0015be35-e107-4c78-9581-5232aa2d1e3d,2,agent,Netanya,LOCATION
+0000053,dfMessenger-0015be35-e107-4c78-9581-5232aa2d1e3d,2,agent,50% discount on parking fees,MONEY_FEE
+0000053,dfMessenger-0015be35-e107-4c78-9581-5232aa2d1e3d,2,agent,Netanya resident,PERMIT_DOC
+0000053,dfMessenger-0015be35-e107-4c78-9581-5232aa2d1e3d,2,agent,regional parking permit,PERMIT_DOC
+0000053,dfMessenger-0015be35-e107-4c78-9581-5232aa2d1e3d,2,agent,over the age of 75,DATE_TIME
+0000053,dfMessenger-0015be35-e107-4c78-9581-5232aa2d1e3d,2,agent,parking permit,PERMIT_DOC
+0000053,dfMessenger-0015be35-e107-4c78-9581-5232aa2d1e3d,2,agent,January 2021,DATE_TIME
+0000053,dfMessenger-0015be35-e107-4c78-9581-5232aa2d1e3d,2,agent,"""gold permit""",PERMIT_DOC
+0000054,dfMessenger-00176ba1-713a-4428-9af1-3065dc35da53,2,user,kindergarten department,DEPARTMENT
+0000055,dfMessenger-00176ba1-713a-4428-9af1-3065dc35da53,2,agent,Kindergarten Department,DEPARTMENT
+0000055,dfMessenger-00176ba1-713a-4428-9af1-3065dc35da53,2,agent,Kindergarten Registration Department,DEPARTMENT
+0000055,dfMessenger-00176ba1-713a-4428-9af1-3065dc35da53,2,agent,Sunday-Wednesday between 08:00-14:00,DATE_TIME
+0000055,dfMessenger-00176ba1-713a-4428-9af1-3065dc35da53,2,agent,Thursday,DATE_TIME
+0000055,dfMessenger-00176ba1-713a-4428-9af1-3065dc35da53,2,agent,Sunday-Thursday between 08:30-14:00,DATE_TIME
+0000055,dfMessenger-00176ba1-713a-4428-9af1-3065dc35da53,2,agent,09-8362899,CONTACT_INFO
+0000055,dfMessenger-00176ba1-713a-4428-9af1-3065dc35da53,2,agent,"Tchernichovsky 12, entrance floor, Netanya",LOCATION
+0000056,dfMessenger-001bff84-cd88-4507-9c6c-858e011d66f4,2,user,disabled parking markings,SERVICE_REQUEST
+0000057,dfMessenger-001bff84-cd88-4507-9c6c-858e011d66f4,2,agent,Netanya Municipality,LAW_REGULATION
+0000057,dfMessenger-001bff84-cd88-4507-9c6c-858e011d66f4,2,agent,Ministry of Transport and Road Safety,LAW_REGULATION
+0000057,dfMessenger-001bff84-cd88-4507-9c6c-858e011d66f4,2,agent,Request for allocation of a general disabled parking space,SERVICE_REQUEST
+0000057,dfMessenger-001bff84-cd88-4507-9c6c-858e011d66f4,2,agent,Request for allocation/renewal of a personal parking space for a disabled vehicle,SERVICE_REQUEST
+0000057,dfMessenger-001bff84-cd88-4507-9c6c-858e011d66f4,2,agent,Request for prohibition of parking at the entrance to a private parking lot,SERVICE_REQUEST
+0000057,dfMessenger-001bff84-cd88-4507-9c6c-858e011d66f4,2,agent,Request to the Traffic Committee for marking and/or placing a sign,SERVICE_REQUEST
+0000057,dfMessenger-001bff84-cd88-4507-9c6c-858e011d66f4,2,agent,Traffic Committee Department,DEPARTMENT
+0000057,dfMessenger-001bff84-cd88-4507-9c6c-858e011d66f4,2,agent,09-8603287,CONTACT_INFO
+0000057,dfMessenger-001bff84-cd88-4507-9c6c-858e011d66f4,2,agent,Mondays between 12:00-16:00,DATE_TIME
+0000057,dfMessenger-001bff84-cd88-4507-9c6c-858e011d66f4,2,agent,Wednesdays between 08:30-11:30,DATE_TIME
+0000058,dfMessenger-001eb8c9-eba2-48c0-909f-18ce5e6db22d,2,user,Jabotinsky Street,LOCATION
+0000059,dfMessenger-001eb8c9-eba2-48c0-909f-18ce5e6db22d,2,agent,Jabotinsky Street,LOCATION
+0000059,dfMessenger-001eb8c9-eba2-48c0-909f-18ce5e6db22d,2,agent,Ministry of Health,LAW_REGULATION
+0000059,dfMessenger-001eb8c9-eba2-48c0-909f-18ce5e6db22d,2,agent,"February 20, 2025",DATE_TIME
+0000059,dfMessenger-001eb8c9-eba2-48c0-909f-18ce5e6db22d,2,agent,McDonald's,LOCATION
+0000059,dfMessenger-001eb8c9-eba2-48c0-909f-18ce5e6db22d,2,agent,Jabotinsky,LOCATION
+0000059,dfMessenger-001eb8c9-eba2-48c0-909f-18ce5e6db22d,2,agent,King David,LOCATION
+0000059,dfMessenger-001eb8c9-eba2-48c0-909f-18ce5e6db22d,2,agent,Emmanuel,LOCATION
+0000059,dfMessenger-001eb8c9-eba2-48c0-909f-18ce5e6db22d,2,agent,Solomon,LOCATION
+0000059,dfMessenger-001eb8c9-eba2-48c0-909f-18ce5e6db22d,2,agent,Bialik,LOCATION
+0000059,dfMessenger-001eb8c9-eba2-48c0-909f-18ce5e6db22d,2,agent,Yehuda Hanasi,LOCATION
+0000059,dfMessenger-001eb8c9-eba2-48c0-909f-18ce5e6db22d,2,agent,Netanya Water Corporation,LAW_REGULATION
+0000061,dfMessenger-001ed4ef-96b0-49c0-b976-9f65549f8e87,3,agent,Sironit Beach,LOCATION
+0000061,dfMessenger-001ed4ef-96b0-49c0-b976-9f65549f8e87,3,agent,Kontik Surf Club,LAW_REGULATION
+0000061,dfMessenger-001ed4ef-96b0-49c0-b976-9f65549f8e87,3,agent,Sironit Beach A,LOCATION
+0000061,dfMessenger-001ed4ef-96b0-49c0-b976-9f65549f8e87,3,agent,052-6055996,CONTACT_INFO
+0000061,dfMessenger-001ed4ef-96b0-49c0-b976-9f65549f8e87,3,agent,kontikisurfclub@gmail.com,CONTACT_INFO
+0000061,dfMessenger-001ed4ef-96b0-49c0-b976-9f65549f8e87,3,agent,https://www.kontikisurfclub.co.il,CONTACT_INFO
+0000061,dfMessenger-001ed4ef-96b0-49c0-b976-9f65549f8e87,3,agent,sports department,DEPARTMENT
+0000061,dfMessenger-001ed4ef-96b0-49c0-b976-9f65549f8e87,3,agent,09-8609777,CONTACT_INFO
+0000061,dfMessenger-001ed4ef-96b0-49c0-b976-9f65549f8e87,3,agent,"Achimeir 9, Netanya",LOCATION
+0000061,dfMessenger-001ed4ef-96b0-49c0-b976-9f65549f8e87,3,agent,"Sunday-Thursday, 8:00-16:00",DATE_TIME
+0000061,dfMessenger-001ed4ef-96b0-49c0-b976-9f65549f8e87,3,agent,Sironit A Beach,LOCATION
+0000061,dfMessenger-001ed4ef-96b0-49c0-b976-9f65549f8e87,3,agent,Pango/Salopark,LAW_REGULATION
+0000061,dfMessenger-001ed4ef-96b0-49c0-b976-9f65549f8e87,3,agent,Poleg Beach,LOCATION
+0000062,dfMessenger-001ed4ef-96b0-49c0-b976-9f65549f8e87,2,user,Gaza Division,DEPARTMENT
+0000062,dfMessenger-001ed4ef-96b0-49c0-b976-9f65549f8e87,2,user,Netanya,LOCATION
+0000063,dfMessenger-001ed4ef-96b0-49c0-b976-9f65549f8e87,2,agent,Netanya,LOCATION
+0000064,dfMessenger-0020a867-c006-4284-9b85-f46b586110ad,2,user,crime report 1,LAW_REGULATION
+0000065,dfMessenger-0020a867-c006-4284-9b85-f46b586110ad,2,agent,Offense number 1,LAW_REGULATION
+0000065,dfMessenger-0020a867-c006-4284-9b85-f46b586110ad,2,agent,municipal parking bylaw,LAW_REGULATION
+0000067,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,3,agent,East Netanya Community Center,DEPARTMENT
+0000067,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,3,agent,Kiryat Hasharon,LOCATION
+0000067,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,3,agent,Amalia,LOCATION
+0000067,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,3,agent,Neot Ganim,LOCATION
+0000067,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,3,agent,Heftziba neighborhood,LOCATION
+0000067,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,3,agent,Neve Itamar,LOCATION
+0000067,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,3,agent,09-8627101,CONTACT_INFO
+0000067,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,3,agent,rabin@netanya-gan.matnasim.co.il,CONTACT_INFO
+0000067,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,3,agent,www.matnasgan.org.il,CONTACT_INFO
+0000067,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,3,agent,Central-North Community Center Network,DEPARTMENT
+0000067,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,3,agent,Dora,LOCATION
+0000067,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,3,agent,Gali Yam,LOCATION
+0000067,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,3,agent,Neot Herzl,LOCATION
+0000067,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,3,agent,09-8356844,CONTACT_INFO
+0000067,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,3,agent,09-83519200,CONTACT_INFO
+0000067,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,3,agent,doraz@n-ry.matnasim.co.il,CONTACT_INFO
+0000067,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,3,agent,https://www.cnnc.org.il,CONTACT_INFO
+0000067,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,3,agent,Leisure and Community Network of Community Centers in South Netanya (AR),DEPARTMENT
+0000067,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,3,agent,Kiryat Nordau,LOCATION
+0000067,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,3,agent,09-8355518,CONTACT_INFO
+0000067,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,3,agent,09-8357904,CONTACT_INFO
+0000067,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,3,agent,tzahronimd@gmail.com,CONTACT_INFO
+0000067,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,3,agent,www.matnasdn.co.il,CONTACT_INFO
+0000067,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,3,agent,Poleg Community Center - Ir Yamim,DEPARTMENT
+0000067,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,3,agent,09-8850330,CONTACT_INFO
+0000067,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,3,agent,09-8800758,CONTACT_INFO
+0000067,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,3,agent,Givat Eirosim,LOCATION
+0000067,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,3,agent,09-8355849,CONTACT_INFO
+0000067,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,3,agent,09-8358573,CONTACT_INFO
+0000067,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,3,agent,"Department for after-school and summer camps - ""Moments"" Association for Informal Education",DEPARTMENT
+0000067,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,3,agent,North city,LOCATION
+0000067,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,3,agent,Ganei Meir,LOCATION
+0000067,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,3,agent,Gusta (Kiryat Hasharon),LOCATION
+0000067,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,3,agent,9 Achimeir St.,LOCATION
+0000067,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,3,agent,09-9772879,CONTACT_INFO
+0000067,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,3,agent,yana@biltiformali.org.il,CONTACT_INFO
+0000067,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,3,agent,https://biltiformali.org.il/,CONTACT_INFO
+0000067,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,3,agent,"""Nitzanim""",LAW_REGULATION
+0000067,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,3,agent,Ministry of Education,LAW_REGULATION
+0000067,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,3,agent,"""Habustan""",LOCATION
+0000067,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,3,agent,"""Keshet""",LOCATION
+0000067,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,3,agent,between 3:00 PM and 6:00 PM,DATE_TIME
+0000068,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,2,user,Gan Meitarim,LOCATION
+0000068,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,2,user,Peleg Hesh Tzaharon,LOCATION
+0000069,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,2,agent,Gan Mithrim,LOCATION
+0000069,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,2,agent,aged 5-6,DATE_TIME
+0000069,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,2,agent,"29 HaZmir Street, Netanya",LOCATION
+0000069,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,2,agent,Ilana Cohen,PERSON
+0000069,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,2,agent,09-8622566,CONTACT_INFO
+0000069,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,2,agent,Gan Peleg,LOCATION
+0000069,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,2,agent,aged 5-6,DATE_TIME
+0000069,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,2,agent,"29 HaZmir Street, Netanya",LOCATION
+0000069,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,2,agent,Linoy Machloff,PERSON
+0000069,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,2,agent,09-8873056,CONTACT_INFO
+0000069,dfMessenger-00259d63-4cf4-4c62-8187-b34c1eb9ca66,2,agent,Non-Formal Education Association,LAW_REGULATION
+0000070,dfMessenger-00272dd6-c069-419b-93aa-d7b3a9bde21b,4,user,parking ticket,MONEY_FEE
+0000071,dfMessenger-00272dd6-c069-419b-93aa-d7b3a9bde21b,4,agent,Metropark,LAW_REGULATION
+0000072,dfMessenger-00272dd6-c069-419b-93aa-d7b3a9bde21b,3,user,parking ticket,MONEY_FEE
+0000073,dfMessenger-00272dd6-c069-419b-93aa-d7b3a9bde21b,3,agent,parking permit,PERMIT_DOC
+0000073,dfMessenger-00272dd6-c069-419b-93aa-d7b3a9bde21b,3,agent,Metropark,LAW_REGULATION
+0000075,dfMessenger-00272dd6-c069-419b-93aa-d7b3a9bde21b,2,agent,Netanya Municipality,DEPARTMENT
+0000076,dfMessenger-002aa520-cadd-4611-bf08-14db858a5002,5,user,building permit,PERMIT_DOC
+0000077,dfMessenger-002aa520-cadd-4611-bf08-14db858a5002,5,agent,Netanya,LOCATION
+0000077,dfMessenger-002aa520-cadd-4611-bf08-14db858a5002,5,agent,"6 Hatzoran Street, Poleg Industrial Zone, Netanya",LOCATION
+0000077,dfMessenger-002aa520-cadd-4611-bf08-14db858a5002,5,agent,"6 Hatzoran Street, 1st floor, Poleg Industrial Zone, Netanya",LOCATION
+0000077,dfMessenger-002aa520-cadd-4611-bf08-14db858a5002,5,agent,09-8603481,CONTACT_INFO
+0000077,dfMessenger-002aa520-cadd-4611-bf08-14db858a5002,5,agent,09-8603525,CONTACT_INFO
+0000077,dfMessenger-002aa520-cadd-4611-bf08-14db858a5002,5,agent,Construction Fees and Levy Department,DEPARTMENT
+0000077,dfMessenger-002aa520-cadd-4611-bf08-14db858a5002,5,agent,building permit,PERMIT_DOC
+0000079,dfMessenger-002aa520-cadd-4611-bf08-14db858a5002,4,agent,23 NIS,MONEY_FEE
+0000079,dfMessenger-002aa520-cadd-4611-bf08-14db858a5002,4,agent,30 NIS per hour,MONEY_FEE
+0000079,dfMessenger-002aa520-cadd-4611-bf08-14db858a5002,4,agent,0.2 NIS,MONEY_FEE
+0000079,dfMessenger-002aa520-cadd-4611-bf08-14db858a5002,4,agent,2.5 NIS,MONEY_FEE
+0000079,dfMessenger-002aa520-cadd-4611-bf08-14db858a5002,4,agent,Freedom of Information Law,LAW_REGULATION
+0000079,dfMessenger-002aa520-cadd-4611-bf08-14db858a5002,4,agent,"Otzar HaHayal Bank, Branch 316, Account 5088",CONTACT_INFO
+0000079,dfMessenger-002aa520-cadd-4611-bf08-14db858a5002,4,agent,payment code 00263,CONTACT_INFO
+0000079,dfMessenger-002aa520-cadd-4611-bf08-14db858a5002,4,agent,Resident Service Center,DEPARTMENT
+0000081,dfMessenger-002aa520-cadd-4611-bf08-14db858a5002,3,agent,Netanya Municipality,DEPARTMENT
+0000081,dfMessenger-002aa520-cadd-4611-bf08-14db858a5002,3,agent,30 working days,DATE_TIME
+0000081,dfMessenger-002aa520-cadd-4611-bf08-14db858a5002,3,agent,25-day,DATE_TIME
+0000081,dfMessenger-002aa520-cadd-4611-bf08-14db858a5002,3,agent,45-day,DATE_TIME
+0000081,dfMessenger-002aa520-cadd-4611-bf08-14db858a5002,3,agent,90-day,DATE_TIME
+0000081,dfMessenger-002aa520-cadd-4611-bf08-14db858a5002,3,agent,two years,DATE_TIME
+0000081,dfMessenger-002aa520-cadd-4611-bf08-14db858a5002,3,agent,one year,DATE_TIME
+0000081,dfMessenger-002aa520-cadd-4611-bf08-14db858a5002,3,agent,3 months,DATE_TIME
+0000081,dfMessenger-002aa520-cadd-4611-bf08-14db858a5002,3,agent,building permit,PERMIT_DOC
+0000082,dfMessenger-002aa520-cadd-4611-bf08-14db858a5002,2,user,building permit,PERMIT_DOC
+0000083,dfMessenger-002aa520-cadd-4611-bf08-14db858a5002,2,agent,Netanya,LOCATION
+0000083,dfMessenger-002aa520-cadd-4611-bf08-14db858a5002,2,agent,"6 Hatzoran Street, Poleg Industrial Zone, Netanya",LOCATION
+0000083,dfMessenger-002aa520-cadd-4611-bf08-14db858a5002,2,agent,"6 Hatzoran Street, 1st floor, Poleg Industrial Zone, Netanya",LOCATION
+0000083,dfMessenger-002aa520-cadd-4611-bf08-14db858a5002,2,agent,09-8603481,CONTACT_INFO
+0000083,dfMessenger-002aa520-cadd-4611-bf08-14db858a5002,2,agent,09-8603525,CONTACT_INFO
+0000083,dfMessenger-002aa520-cadd-4611-bf08-14db858a5002,2,agent,Construction Fees and Levy Department,DEPARTMENT
+0000083,dfMessenger-002aa520-cadd-4611-bf08-14db858a5002,2,agent,Freedom of Information Law,LAW_REGULATION
+0000083,dfMessenger-002aa520-cadd-4611-bf08-14db858a5002,2,agent,building permit,PERMIT_DOC
+0000084,dfMessenger-002d2974-54e3-4d78-9691-f062afc32c5b,3,user,Kiryat Hasharon,LOCATION
+0000085,dfMessenger-002d2974-54e3-4d78-9691-f062afc32c5b,3,agent,Kiryat Hasharon,LOCATION
+0000085,dfMessenger-002d2974-54e3-4d78-9691-f062afc32c5b,3,agent,Netanya Municipality,DEPARTMENT
+0000085,dfMessenger-002d2974-54e3-4d78-9691-f062afc32c5b,3,agent,Netanya,LOCATION
+0000085,dfMessenger-002d2974-54e3-4d78-9691-f062afc32c5b,3,agent,Hotline 106,CONTACT_INFO
+0000085,dfMessenger-002d2974-54e3-4d78-9691-f062afc32c5b,3,agent,Waste Removal Department,DEPARTMENT
+0000089,dfMessenger-002e747b-c734-44fc-99d1-23efde11690c,2,agent,04-6961340,CONTACT_INFO
+0000089,dfMessenger-002e747b-c734-44fc-99d1-23efde11690c,2,agent,15398608609,CONTACT_INFO
+0000089,dfMessenger-002e747b-c734-44fc-99d1-23efde11690c,2,agent,"PO Box 7031, Netanya, ZIP code 42120",LOCATION
+0000089,dfMessenger-002e747b-c734-44fc-99d1-23efde11690c,2,agent,"PO Box 7031, Netanya, ZIP 42120",LOCATION
+0000089,dfMessenger-002e747b-c734-44fc-99d1-23efde11690c,2,agent,Netanya Municipality,DEPARTMENT
+0000089,dfMessenger-002e747b-c734-44fc-99d1-23efde11690c,2,agent,30 days,DATE_TIME
+0000089,dfMessenger-002e747b-c734-44fc-99d1-23efde11690c,2,agent,90 days,DATE_TIME
+0000090,dfMessenger-0030c3c2-d37e-4c4f-a51f-bcaa3603a3bb,2,user,Hadera,LOCATION
+0000090,dfMessenger-0030c3c2-d37e-4c4f-a51f-bcaa3603a3bb,2,user,Netanya,LOCATION
+0000091,dfMessenger-0030c3c2-d37e-4c4f-a51f-bcaa3603a3bb,2,agent,Hadera,LOCATION
+0000091,dfMessenger-0030c3c2-d37e-4c4f-a51f-bcaa3603a3bb,2,agent,Netanya,LOCATION
+0000091,dfMessenger-0030c3c2-d37e-4c4f-a51f-bcaa3603a3bb,2,agent,Argaman Lagoon Beach,LOCATION
+0000091,dfMessenger-0030c3c2-d37e-4c4f-a51f-bcaa3603a3bb,2,agent,Blue Bay Beach,LOCATION
+0000091,dfMessenger-0030c3c2-d37e-4c4f-a51f-bcaa3603a3bb,2,agent,Ha'Oun Beach,LOCATION
+0000091,dfMessenger-0030c3c2-d37e-4c4f-a51f-bcaa3603a3bb,2,agent,Shaked Promenade,LOCATION
+0000091,dfMessenger-0030c3c2-d37e-4c4f-a51f-bcaa3603a3bb,2,agent,08:30 until half an hour before sunset,DATE_TIME
+0000091,dfMessenger-0030c3c2-d37e-4c4f-a51f-bcaa3603a3bb,2,agent,Herzl Beach,LOCATION
+0000091,dfMessenger-0030c3c2-d37e-4c4f-a51f-bcaa3603a3bb,2,agent,Herzl Street,LOCATION
+0000091,dfMessenger-0030c3c2-d37e-4c4f-a51f-bcaa3603a3bb,2,agent,Poleg Beach,LOCATION
+0000091,dfMessenger-0030c3c2-d37e-4c4f-a51f-bcaa3603a3bb,2,agent,Ramat Poleg,LOCATION
+0000091,dfMessenger-0030c3c2-d37e-4c4f-a51f-bcaa3603a3bb,2,agent,Ir Yamim,LOCATION
+0000091,dfMessenger-0030c3c2-d37e-4c4f-a51f-bcaa3603a3bb,2,agent,Sironit Beach A,LOCATION
+0000091,dfMessenger-0030c3c2-d37e-4c4f-a51f-bcaa3603a3bb,2,agent,Sironit Beach B,LOCATION
+0000091,dfMessenger-0030c3c2-d37e-4c4f-a51f-bcaa3603a3bb,2,agent,09-9678111,CONTACT_INFO
+0000091,dfMessenger-0030c3c2-d37e-4c4f-a51f-bcaa3603a3bb,2,agent,"Sunday-Thursday, 8:00 AM-4:00 PM",DATE_TIME
+0000091,dfMessenger-0030c3c2-d37e-4c4f-a51f-bcaa3603a3bb,2,agent,Beaches Department,DEPARTMENT
+0000091,dfMessenger-0030c3c2-d37e-4c4f-a51f-bcaa3603a3bb,2,agent,Netanya Municipality,DEPARTMENT
+0000093,dfMessenger-00316ab1-6a73-453f-95f2-f4f943b0a8d4,3,agent,Netanya,LOCATION
+0000093,dfMessenger-00316ab1-6a73-453f-95f2-f4f943b0a8d4,3,agent,Kiryat Eliezer Industrial Zone,LOCATION
+0000093,dfMessenger-00316ab1-6a73-453f-95f2-f4f943b0a8d4,3,agent,David Pinkas Street,LOCATION
+0000093,dfMessenger-00316ab1-6a73-453f-95f2-f4f943b0a8d4,3,agent,50% discount,MONEY_FEE
+0000093,dfMessenger-00316ab1-6a73-453f-95f2-f4f943b0a8d4,3,agent,Kiryat Sapir Industrial Zone,LOCATION
+0000093,dfMessenger-00316ab1-6a73-453f-95f2-f4f943b0a8d4,3,agent,Giborei Israel Street 7,LOCATION
+0000093,dfMessenger-00316ab1-6a73-453f-95f2-f4f943b0a8d4,3,agent,24 hours,DATE_TIME
+0000095,dfMessenger-00316ab1-6a73-453f-95f2-f4f943b0a8d4,2,agent,20 NIS,MONEY_FEE
+0000095,dfMessenger-00316ab1-6a73-453f-95f2-f4f943b0a8d4,2,agent,09-8604400,CONTACT_INFO
+0000095,dfMessenger-00316ab1-6a73-453f-95f2-f4f943b0a8d4,2,agent,Resident Service Center,DEPARTMENT
+0000095,dfMessenger-00316ab1-6a73-453f-95f2-f4f943b0a8d4,2,agent,Sunday-Thursday from 08:30-11:30,DATE_TIME
+0000095,dfMessenger-00316ab1-6a73-453f-95f2-f4f943b0a8d4,2,agent,Wednesday also from 16:30-18:30,DATE_TIME
+0000095,dfMessenger-00316ab1-6a73-453f-95f2-f4f943b0a8d4,2,agent,Monday and Tuesday from 11:30-13:30,DATE_TIME
+0000095,dfMessenger-00316ab1-6a73-453f-95f2-f4f943b0a8d4,2,agent,Wednesday-Thursday from 11:30-12:30,DATE_TIME
+0000097,dfMessenger-00335880-f368-48a3-a35a-8d6b2db6328f,2,agent,Netanya Municipality,DEPARTMENT
+0000099,dfMessenger-0033f7cf-4a83-41aa-aa49-05c42b070004,2,agent,04-6961340,CONTACT_INFO
+0000099,dfMessenger-0033f7cf-4a83-41aa-aa49-05c42b070004,2,agent,15398608609,CONTACT_INFO
+0000099,dfMessenger-0033f7cf-4a83-41aa-aa49-05c42b070004,2,agent,"P.O. Box 7031, Netanya, ZIP code 42120",LOCATION
+0000099,dfMessenger-0033f7cf-4a83-41aa-aa49-05c42b070004,2,agent,"P.O. Box 7031, Netanya, ZIP 42120",LOCATION
+0000099,dfMessenger-0033f7cf-4a83-41aa-aa49-05c42b070004,2,agent,Netanya Municipality,DEPARTMENT
+0000099,dfMessenger-0033f7cf-4a83-41aa-aa49-05c42b070004,2,agent,30 days,DATE_TIME
+0000099,dfMessenger-0033f7cf-4a83-41aa-aa49-05c42b070004,2,agent,90 days,DATE_TIME
+0000100,dfMessenger-00341da5-72e1-423b-b2d2-da7c3a701d4d,4,user,parking tickets,SERVICE_REQUEST
+0000101,dfMessenger-00341da5-72e1-423b-b2d2-da7c3a701d4d,4,agent,Metropark website,SERVICE_REQUEST
+0000103,dfMessenger-00341da5-72e1-423b-b2d2-da7c3a701d4d,3,agent,Metropark website,SERVICE_REQUEST
+0000104,dfMessenger-00341da5-72e1-423b-b2d2-da7c3a701d4d,2,user,reduce the interest I have on my statements,SERVICE_REQUEST
+0000105,dfMessenger-00341da5-72e1-423b-b2d2-da7c3a701d4d,2,agent,Banks' Charter Program,LAW_REGULATION
+0000105,dfMessenger-00341da5-72e1-423b-b2d2-da7c3a701d4d,2,agent,Municipal Authority for Combating Drug and Alcohol Violence,DEPARTMENT
+0000105,dfMessenger-00341da5-72e1-423b-b2d2-da7c3a701d4d,2,agent,09-8603112,CONTACT_INFO
+0000106,dfMessenger-0035da38-3f6c-45ca-85df-e6a8d71a5d56,2,user,Independence Day,DATE_TIME
+0000107,dfMessenger-0035da38-3f6c-45ca-85df-e6a8d71a5d56,2,agent,30.4.25,DATE_TIME
+0000107,dfMessenger-0035da38-3f6c-45ca-85df-e6a8d71a5d56,2,agent,06:00-14:00,DATE_TIME
+0000107,dfMessenger-0035da38-3f6c-45ca-85df-e6a8d71a5d56,2,agent,Netanya,LOCATION
+0000107,dfMessenger-0035da38-3f6c-45ca-85df-e6a8d71a5d56,2,agent,Citywide parking permit,PERMIT_DOC
+0000107,dfMessenger-0035da38-3f6c-45ca-85df-e6a8d71a5d56,2,agent,Regional parking permit (resident),PERMIT_DOC
+0000107,dfMessenger-0035da38-3f6c-45ca-85df-e6a8d71a5d56,2,agent,Senior Citizen Permit,PERMIT_DOC
+0000108,dfMessenger-0036547b-b503-4ec9-b283-c74cc0b9f703,2,user,remove my name from my previous address,SERVICE_REQUEST
+0000109,dfMessenger-0036547b-b503-4ec9-b283-c74cc0b9f703,2,agent,Notification of leaving a property - Residential property tax,PERMIT_DOC
+0000109,dfMessenger-0036547b-b503-4ec9-b283-c74cc0b9f703,2,agent,Property Notice - Business property tax,PERMIT_DOC
+0000110,dfMessenger-003b7d1c-287b-4505-a2c1-f8e63152ecda,4,user,property tax discount,MONEY_FEE
+0000111,dfMessenger-003b7d1c-287b-4505-a2c1-f8e63152ecda,4,agent,2024,DATE_TIME
+0000111,dfMessenger-003b7d1c-287b-4505-a2c1-f8e63152ecda,4,agent,2025,DATE_TIME
+0000111,dfMessenger-003b7d1c-287b-4505-a2c1-f8e63152ecda,4,agent,Discount Application Form,PERMIT_DOC
+0000116,dfMessenger-003f0b21-6269-4482-83fe-49250c307beb,2,user,Foreign study permit,PERMIT_DOC
+0000117,dfMessenger-003f0b21-6269-4482-83fe-49250c307beb,2,agent,approval for external studies,PERMIT_DOC
+0000118,dfMessenger-004087b1-7b45-48c7-9645-c82835cdf4aa,2,user,Appeal a parking ticket,SERVICE_REQUEST
+0000119,dfMessenger-004087b1-7b45-48c7-9645-c82835cdf4aa,2,agent,Netanya,LOCATION
+0000119,dfMessenger-004087b1-7b45-48c7-9645-c82835cdf4aa,2,agent,30 days,DATE_TIME
+0000119,dfMessenger-004087b1-7b45-48c7-9645-c82835cdf4aa,2,agent,90 days,DATE_TIME
+0000119,dfMessenger-004087b1-7b45-48c7-9645-c82835cdf4aa,2,agent,15398608609,CONTACT_INFO
+0000119,dfMessenger-004087b1-7b45-48c7-9645-c82835cdf4aa,2,agent,"P.O. Box 7031, Netanya, ZIP Code 42120",CONTACT_INFO
+0000119,dfMessenger-004087b1-7b45-48c7-9645-c82835cdf4aa,2,agent,Metropark website,SERVICE_REQUEST
+0000119,dfMessenger-004087b1-7b45-48c7-9645-c82835cdf4aa,2,agent,Appeal form to the municipal prosecutor about a parking report,PERMIT_DOC
+0000120,dfMessenger-0041bf87-4ff8-48e5-b495-76bda089f301,2,user,pay,MONEY_FEE
+0000121,dfMessenger-0041bf87-4ff8-48e5-b495-76bda089f301,2,agent,076-5300943,CONTACT_INFO
+0000121,dfMessenger-0041bf87-4ff8-48e5-b495-76bda089f301,2,agent,03-9275810,CONTACT_INFO
+0000121,dfMessenger-0041bf87-4ff8-48e5-b495-76bda089f301,2,agent,Revenue Department,DEPARTMENT
+0000121,dfMessenger-0041bf87-4ff8-48e5-b495-76bda089f301,2,agent,"Hatzoran 4A, 2nd floor, entrance 7, Sapir Business and Technology Park, Netanya",LOCATION
+0000121,dfMessenger-0041bf87-4ff8-48e5-b495-76bda089f301,2,agent,Residential/Business Property Tax Bill Payment,SERVICE_REQUEST
+0000121,dfMessenger-0041bf87-4ff8-48e5-b495-76bda089f301,2,agent,Payment for services and kindergarten fees,SERVICE_REQUEST
+0000123,dfMessenger-00424000-9a32-459b-b2b9-0e0a2ba30c29,6,agent,14 business days,DATE_TIME
+0000123,dfMessenger-00424000-9a32-459b-b2b9-0e0a2ba30c29,6,agent,Checking the balance of the property tax account,SERVICE_REQUEST
+0000133,dfMessenger-0044392a-e86c-4f98-99ef-a2cb3f9fbf07,3,agent,Orna Peretz,PERSON
+0000133,dfMessenger-0044392a-e86c-4f98-99ef-a2cb3f9fbf07,3,agent,09-8604400 ext. 3,CONTACT_INFO
+0000133,dfMessenger-0044392a-e86c-4f98-99ef-a2cb3f9fbf07,3,agent,09-8870084,CONTACT_INFO
+0000134,dfMessenger-0044392a-e86c-4f98-99ef-a2cb3f9fbf07,2,user,Amnon and Tamar Street,LOCATION
+0000134,dfMessenger-0044392a-e86c-4f98-99ef-a2cb3f9fbf07,2,user,Ministry of Health,LAW_REGULATION
+0000135,dfMessenger-0044392a-e86c-4f98-99ef-a2cb3f9fbf07,2,agent,Amnon and Tamar Streets,LOCATION
+0000135,dfMessenger-0044392a-e86c-4f98-99ef-a2cb3f9fbf07,2,agent,106,CONTACT_INFO
+0000135,dfMessenger-0044392a-e86c-4f98-99ef-a2cb3f9fbf07,2,agent,Sunday-Thursday between 08:00-16:00,DATE_TIME
+0000135,dfMessenger-0044392a-e86c-4f98-99ef-a2cb3f9fbf07,2,agent,09-8872443,CONTACT_INFO
+0000135,dfMessenger-0044392a-e86c-4f98-99ef-a2cb3f9fbf07,2,agent,09-8604400,CONTACT_INFO
+0000135,dfMessenger-0044392a-e86c-4f98-99ef-a2cb3f9fbf07,2,agent,052-6333106,CONTACT_INFO
+0000135,dfMessenger-0044392a-e86c-4f98-99ef-a2cb3f9fbf07,2,agent,Netanya Municipality,DEPARTMENT
+0000137,dfMessenger-00446d9a-6042-4767-a449-6d4ddffcb778,2,agent,"October 14, 2025",DATE_TIME
+0000137,dfMessenger-00446d9a-6042-4767-a449-6d4ddffcb778,2,agent,"Kiryat Hasharon Community Center, 31 Lantos Blvd.",LOCATION
+0000137,dfMessenger-00446d9a-6042-4767-a449-6d4ddffcb778,2,agent,between 7:30 PM and 10:00 PM,DATE_TIME
+0000137,dfMessenger-00446d9a-6042-4767-a449-6d4ddffcb778,2,agent,between 2:00 PM and 4:00 PM,DATE_TIME
+0000137,dfMessenger-00446d9a-6042-4767-a449-6d4ddffcb778,2,agent,between 11:00 PM and 7:00 AM,DATE_TIME
+0000137,dfMessenger-00446d9a-6042-4767-a449-6d4ddffcb778,2,agent,between 12:00 PM and 7:00 AM,DATE_TIME
+0000141,dfMessenger-00467694-9a73-41a8-8f1f-9b4856aa8370,2,agent,Netanya Municipality,DEPARTMENT
+0000141,dfMessenger-00467694-9a73-41a8-8f1f-9b4856aa8370,2,agent,"14.5, 15.5, 17.5",DATE_TIME
+0000141,dfMessenger-00467694-9a73-41a8-8f1f-9b4856aa8370,2,agent,all beaches and promenades,LOCATION
+0000141,dfMessenger-00467694-9a73-41a8-8f1f-9b4856aa8370,2,agent,public gardens,LOCATION
+0000141,dfMessenger-00467694-9a73-41a8-8f1f-9b4856aa8370,2,agent,the Irises Reserve,LOCATION
+0000141,dfMessenger-00467694-9a73-41a8-8f1f-9b4856aa8370,2,agent,Winter Lake Park,LOCATION
+0000141,dfMessenger-00467694-9a73-41a8-8f1f-9b4856aa8370,2,agent,the Oak Grove,LOCATION
+0000141,dfMessenger-00467694-9a73-41a8-8f1f-9b4856aa8370,2,agent,the Kfar Netter Sands,LOCATION
+0000141,dfMessenger-00467694-9a73-41a8-8f1f-9b4856aa8370,2,agent,industrial areas,LOCATION
+0000141,dfMessenger-00467694-9a73-41a8-8f1f-9b4856aa8370,2,agent,"the memorial complex at the ""Yad Labanim"" house",LOCATION
+0000141,dfMessenger-00467694-9a73-41a8-8f1f-9b4856aa8370,2,agent,the Victory Monument,LOCATION
+0000141,dfMessenger-00467694-9a73-41a8-8f1f-9b4856aa8370,2,agent,the Caravan Site,LOCATION
+0000141,dfMessenger-00467694-9a73-41a8-8f1f-9b4856aa8370,2,agent,the Sculpture Garden,LOCATION
+0000141,dfMessenger-00467694-9a73-41a8-8f1f-9b4856aa8370,2,agent,28.4.2025-7.5.2025,DATE_TIME
+0000141,dfMessenger-00467694-9a73-41a8-8f1f-9b4856aa8370,2,agent,Commissioner's Order prohibiting Lighting fires,LAW_REGULATION
+0000143,dfMessenger-0047a4ac-c3c3-4acd-b78f-0d7eaaf1ef57,2,agent,04-6961340,CONTACT_INFO
+0000143,dfMessenger-0047a4ac-c3c3-4acd-b78f-0d7eaaf1ef57,2,agent,Metropark,DEPARTMENT
+0000144,dfMessenger-0047d996-95ce-44db-bb38-db9791fedcdb,2,user,Bnei Akiva Yad Avraham Yeshiva School,DEPARTMENT
+0000145,dfMessenger-0047d996-95ce-44db-bb38-db9791fedcdb,2,agent,"Bnei Akiva Yeshiva ""Yad Avraham""",DEPARTMENT
+0000145,dfMessenger-0047d996-95ce-44db-bb38-db9791fedcdb,2,agent,until 11:00 p.m.,DATE_TIME
+0000148,dfMessenger-004d956d-24f1-4b84-b2d8-c2e82c91b528,3,user,yesterday on 3/19/25,DATE_TIME
+0000149,dfMessenger-004d956d-24f1-4b84-b2d8-c2e82c91b528,3,agent,19.3.25,DATE_TIME
+0000149,dfMessenger-004d956d-24f1-4b84-b2d8-c2e82c91b528,3,agent,the intersection of Habonim and Melacha streets,LOCATION
+0000149,dfMessenger-004d956d-24f1-4b84-b2d8-c2e82c91b528,3,agent,Privacy Protection Law,LAW_REGULATION
+0000149,dfMessenger-004d956d-24f1-4b84-b2d8-c2e82c91b528,3,agent,Netanya Municipality,DEPARTMENT
+0000149,dfMessenger-004d956d-24f1-4b84-b2d8-c2e82c91b528,3,agent,21 days,DATE_TIME
+0000149,dfMessenger-004d956d-24f1-4b84-b2d8-c2e82c91b528,3,agent,insurance department,DEPARTMENT
+0000149,dfMessenger-004d956d-24f1-4b84-b2d8-c2e82c91b528,3,agent,106,CONTACT_INFO
+0000149,dfMessenger-004d956d-24f1-4b84-b2d8-c2e82c91b528,3,agent,"NIS 1,000",MONEY_FEE
+0000149,dfMessenger-004d956d-24f1-4b84-b2d8-c2e82c91b528,3,agent,"NIS 1,000",MONEY_FEE
+0000149,dfMessenger-004d956d-24f1-4b84-b2d8-c2e82c91b528,3,agent,09-8606548,CONTACT_INFO
+0000149,dfMessenger-004d956d-24f1-4b84-b2d8-c2e82c91b528,3,agent,"6 HaTzareet Street, 3rd floor",LOCATION
+0000150,dfMessenger-004d956d-24f1-4b84-b2d8-c2e82c91b528,2,user,Habonim and Melakha streets,LOCATION
+0000150,dfMessenger-004d956d-24f1-4b84-b2d8-c2e82c91b528,2,user,camera No. 300,SERVICE_REQUEST
+0000150,dfMessenger-004d956d-24f1-4b84-b2d8-c2e82c91b528,2,user,Toyota,PERSON
+0000150,dfMessenger-004d956d-24f1-4b84-b2d8-c2e82c91b528,2,user,No. 30-060-56,PERMIT_DOC
+0000150,dfMessenger-004d956d-24f1-4b84-b2d8-c2e82c91b528,2,user,between 11:30 and 12:30,DATE_TIME
+0000151,dfMessenger-004d956d-24f1-4b84-b2d8-c2e82c91b528,2,agent,Habonim and Melacha Streets,LOCATION
+0000151,dfMessenger-004d956d-24f1-4b84-b2d8-c2e82c91b528,2,agent,Netanya Municipality,DEPARTMENT
+0000151,dfMessenger-004d956d-24f1-4b84-b2d8-c2e82c91b528,2,agent,Privacy Protection Law,LAW_REGULATION
+0000151,dfMessenger-004d956d-24f1-4b84-b2d8-c2e82c91b528,2,agent,21 days,DATE_TIME
+0000151,dfMessenger-004d956d-24f1-4b84-b2d8-c2e82c91b528,2,agent,insurance department,DEPARTMENT
+0000151,dfMessenger-004d956d-24f1-4b84-b2d8-c2e82c91b528,2,agent,106,CONTACT_INFO
+0000151,dfMessenger-004d956d-24f1-4b84-b2d8-c2e82c91b528,2,agent,"NIS 1,000",MONEY_FEE
+0000151,dfMessenger-004d956d-24f1-4b84-b2d8-c2e82c91b528,2,agent,"NIS 1,000",MONEY_FEE
+0000151,dfMessenger-004d956d-24f1-4b84-b2d8-c2e82c91b528,2,agent,09-8606548,CONTACT_INFO
+0000151,dfMessenger-004d956d-24f1-4b84-b2d8-c2e82c91b528,2,agent,"6 HaTzareet Street, 3rd floor",LOCATION
+0000153,dfMessenger-004e7c30-0067-4d90-ad95-86317ca7da4b,2,agent,Metropark,SERVICE_REQUEST
+0000153,dfMessenger-004e7c30-0067-4d90-ad95-86317ca7da4b,2,agent,Postal Bank,DEPARTMENT
+0000153,dfMessenger-004e7c30-0067-4d90-ad95-86317ca7da4b,2,agent,04-6961340,CONTACT_INFO
+0000154,dfMessenger-004e981e-443d-464b-85ab-6d10d0b82a45,2,user,Nissenbaum Street,LOCATION
+0000155,dfMessenger-004e981e-443d-464b-85ab-6d10d0b82a45,2,agent,Nissenbaum Yitzhak 19,LOCATION
+0000157,dfMessenger-0053208c-488a-406a-be03-7cf66e471af4,4,agent,Netanya Municipality,DEPARTMENT
+0000159,dfMessenger-0053208c-488a-406a-be03-7cf66e471af4,3,agent,Netanya Municipality,DEPARTMENT
+0000159,dfMessenger-0053208c-488a-406a-be03-7cf66e471af4,3,agent,076-5300943,CONTACT_INFO
+0000159,dfMessenger-0053208c-488a-406a-be03-7cf66e471af4,3,agent,Sunday-Thursday between 8:00-20:00,DATE_TIME
+0000159,dfMessenger-0053208c-488a-406a-be03-7cf66e471af4,3,agent,Fridays and holiday eves between 8:00-12:00,DATE_TIME
+0000159,dfMessenger-0053208c-488a-406a-be03-7cf66e471af4,3,agent,03-9275810,CONTACT_INFO
+0000159,dfMessenger-0053208c-488a-406a-be03-7cf66e471af4,3,agent,Revenue Division,DEPARTMENT
+0000159,dfMessenger-0053208c-488a-406a-be03-7cf66e471af4,3,agent,"Sunday-Thursday, from 08:00 to 13:00",DATE_TIME
+0000159,dfMessenger-0053208c-488a-406a-be03-7cf66e471af4,3,agent,Wednesday also from 16:30 to 18:00,DATE_TIME
+0000159,dfMessenger-0053208c-488a-406a-be03-7cf66e471af4,3,agent,"Hatzoran 4 A, 2nd floor, Entrance 7, Sapir Business and Technology Park, Netanya",LOCATION
+0000159,dfMessenger-0053208c-488a-406a-be03-7cf66e471af4,3,agent,Maga'ar Company,DEPARTMENT
+0000159,dfMessenger-0053208c-488a-406a-be03-7cf66e471af4,3,agent,"Sunday-Tuesday-Thursday, from 8:00 to 15:30",DATE_TIME
+0000159,dfMessenger-0053208c-488a-406a-be03-7cf66e471af4,3,agent,Monday from 8:00 to 16:30,DATE_TIME
+0000159,dfMessenger-0053208c-488a-406a-be03-7cf66e471af4,3,agent,Wednesday from 8:00 to 14:00,DATE_TIME
+0000159,dfMessenger-0053208c-488a-406a-be03-7cf66e471af4,3,agent,from 16:00 to 18:30,DATE_TIME
+0000159,dfMessenger-0053208c-488a-406a-be03-7cf66e471af4,3,agent,"Pinsker 18, Beit Capital, 2nd floor, room 202, Netanya",LOCATION
+0000159,dfMessenger-0053208c-488a-406a-be03-7cf66e471af4,3,agent,Direct Deposit Department,DEPARTMENT
+0000159,dfMessenger-0053208c-488a-406a-be03-7cf66e471af4,3,agent,Join a Direct Bank Order,PERMIT_DOC
+0000163,dfMessenger-0056cccf-93f6-4a81-8752-2afb77dec632,4,agent,Appeals Committee,DEPARTMENT
+0000163,dfMessenger-0056cccf-93f6-4a81-8752-2afb77dec632,4,agent,Special Education Law,LAW_REGULATION
+0000163,dfMessenger-0056cccf-93f6-4a81-8752-2afb77dec632,4,agent,Ministry of Education,DEPARTMENT
+0000163,dfMessenger-0056cccf-93f6-4a81-8752-2afb77dec632,4,agent,Eligibility and Characterization Committee,DEPARTMENT
+0000163,dfMessenger-0056cccf-93f6-4a81-8752-2afb77dec632,4,agent,Tel Aviv District,LOCATION
+0000168,dfMessenger-00579662-f923-40ca-a3ab-2904957deb2c,4,user,Levontin Street,LOCATION
+0000169,dfMessenger-00579662-f923-40ca-a3ab-2904957deb2c,4,agent,Levontin Street,LOCATION
+0000169,dfMessenger-00579662-f923-40ca-a3ab-2904957deb2c,4,agent,Complex 102,LOCATION
+0000169,dfMessenger-00579662-f923-40ca-a3ab-2904957deb2c,4,agent,Levontin Zalman 5,LOCATION
+0000169,dfMessenger-00579662-f923-40ca-a3ab-2904957deb2c,4,agent,Levontin Zalman 7/Petah Tikva 24,LOCATION
+0000169,dfMessenger-00579662-f923-40ca-a3ab-2904957deb2c,4,agent,Levontin Zalman 9/Petah Tikva 26,LOCATION
+0000169,dfMessenger-00579662-f923-40ca-a3ab-2904957deb2c,4,agent,Levontin Zalman 11/Petah Tikva 28,LOCATION
+0000169,dfMessenger-00579662-f923-40ca-a3ab-2904957deb2c,4,agent,Levontin Zalman 13,LOCATION
+0000169,dfMessenger-00579662-f923-40ca-a3ab-2904957deb2c,4,agent,before 1.1.1980,DATE_TIME
+0000169,dfMessenger-00579662-f923-40ca-a3ab-2904957deb2c,4,agent,Levontin Zalman 15,LOCATION
+0000169,dfMessenger-00579662-f923-40ca-a3ab-2904957deb2c,4,agent,Levontin Zalman 17,LOCATION
+0000169,dfMessenger-00579662-f923-40ca-a3ab-2904957deb2c,4,agent,Levontin Zalman 21/Petah Tikva 38,LOCATION
+0000169,dfMessenger-00579662-f923-40ca-a3ab-2904957deb2c,4,agent,Levontin Zalman 23/Petah Tikva 40,LOCATION
+0000169,dfMessenger-00579662-f923-40ca-a3ab-2904957deb2c,4,agent,Lebontin Zalman 27/Petah Tikva 44,LOCATION
+0000169,dfMessenger-00579662-f923-40ca-a3ab-2904957deb2c,4,agent,Lebontin Zalman 29/Petah Tikva 46,LOCATION
+0000169,dfMessenger-00579662-f923-40ca-a3ab-2904957deb2c,4,agent,Lebontin Zalman 31/Aryeh Ben Eliezer 2,LOCATION
+0000169,dfMessenger-00579662-f923-40ca-a3ab-2904957deb2c,4,agent,Netanya Municipality,DEPARTMENT
+0000169,dfMessenger-00579662-f923-40ca-a3ab-2904957deb2c,4,agent,Revenue Department,DEPARTMENT
+0000171,dfMessenger-00579662-f923-40ca-a3ab-2904957deb2c,3,agent,2025,DATE_TIME
+0000171,dfMessenger-00579662-f923-40ca-a3ab-2904957deb2c,3,agent,93.33 NIS,MONEY_FEE
+0000171,dfMessenger-00579662-f923-40ca-a3ab-2904957deb2c,3,agent,87.07 NIS,MONEY_FEE
+0000171,dfMessenger-00579662-f923-40ca-a3ab-2904957deb2c,3,agent,77.96 NIS,MONEY_FEE
+0000171,dfMessenger-00579662-f923-40ca-a3ab-2904957deb2c,3,agent,64.46 NIS,MONEY_FEE
+0000171,dfMessenger-00579662-f923-40ca-a3ab-2904957deb2c,3,agent,47.88 NIS,MONEY_FEE
+0000171,dfMessenger-00579662-f923-40ca-a3ab-2904957deb2c,3,agent,77.17 NIS,MONEY_FEE
+0000171,dfMessenger-00579662-f923-40ca-a3ab-2904957deb2c,3,agent,67.05 NIS,MONEY_FEE
+0000171,dfMessenger-00579662-f923-40ca-a3ab-2904957deb2c,3,agent,60.64 NIS,MONEY_FEE
+0000171,dfMessenger-00579662-f923-40ca-a3ab-2904957deb2c,3,agent,55.54 NIS,MONEY_FEE
+0000171,dfMessenger-00579662-f923-40ca-a3ab-2904957deb2c,3,agent,44.21 NIS,MONEY_FEE
+0000171,dfMessenger-00579662-f923-40ca-a3ab-2904957deb2c,3,agent,55.25 NIS,MONEY_FEE
+0000171,dfMessenger-00579662-f923-40ca-a3ab-2904957deb2c,3,agent,50.68 NIS,MONEY_FEE
+0000171,dfMessenger-00579662-f923-40ca-a3ab-2904957deb2c,3,agent,46.95 NIS,MONEY_FEE
+0000171,dfMessenger-00579662-f923-40ca-a3ab-2904957deb2c,3,agent,40.39 NIS,MONEY_FEE
+0000171,dfMessenger-00579662-f923-40ca-a3ab-2904957deb2c,3,agent,40.39 NIS,MONEY_FEE
+0000171,dfMessenger-00579662-f923-40ca-a3ab-2904957deb2c,3,agent,106.72 NIS,MONEY_FEE
+0000171,dfMessenger-00579662-f923-40ca-a3ab-2904957deb2c,3,agent,Revenue Division,DEPARTMENT
+0000171,dfMessenger-00579662-f923-40ca-a3ab-2904957deb2c,3,agent,076-5300943,CONTACT_INFO
+0000171,dfMessenger-00579662-f923-40ca-a3ab-2904957deb2c,3,agent,"4 Hatzoran Street, 2nd floor",LOCATION
+0000171,dfMessenger-00579662-f923-40ca-a3ab-2904957deb2c,3,agent,Sunday-Thursday between 08:00-13:00,DATE_TIME
+0000171,dfMessenger-00579662-f923-40ca-a3ab-2904957deb2c,3,agent,Wednesdays (excluding August) also between 16:30-18:00,DATE_TIME
+0000175,dfMessenger-005a31b7-ceb8-4a88-97b6-894aec1def5d,2,agent,04-6961340,CONTACT_INFO
+0000175,dfMessenger-005a31b7-ceb8-4a88-97b6-894aec1def5d,2,agent,09-8606514,CONTACT_INFO
+0000175,dfMessenger-005a31b7-ceb8-4a88-97b6-894aec1def5d,2,agent,Israel Post,DEPARTMENT
+0000177,dfMessenger-005b0883-5947-45f4-9f88-cbb7c35cab17,4,agent,Plan No. 542/A,PERMIT_DOC
+0000177,dfMessenger-005b0883-5947-45f4-9f88-cbb7c35cab17,4,agent,2003,DATE_TIME
+0000179,dfMessenger-005b0883-5947-45f4-9f88-cbb7c35cab17,3,agent,Hihaloman Abrams Street,LOCATION
+0000179,dfMessenger-005b0883-5947-45f4-9f88-cbb7c35cab17,3,agent,Oscar Schindler Street,LOCATION
+0000179,dfMessenger-005b0883-5947-45f4-9f88-cbb7c35cab17,3,agent,Ben Zvi Boulevard,LOCATION
+0000179,dfMessenger-005b0883-5947-45f4-9f88-cbb7c35cab17,3,agent,Rabbi Rat Meshulam Street,LOCATION
+0000179,dfMessenger-005b0883-5947-45f4-9f88-cbb7c35cab17,3,agent,Plan No. 542/A,PERMIT_DOC
+0000180,dfMessenger-005b0883-5947-45f4-9f88-cbb7c35cab17,2,user,Nat542 Complex 3,PERMIT_DOC
+0000181,dfMessenger-005b0883-5947-45f4-9f88-cbb7c35cab17,2,agent,Complex 3,LOCATION
+0000181,dfMessenger-005b0883-5947-45f4-9f88-cbb7c35cab17,2,agent,N/542/A,PERMIT_DOC
+0000181,dfMessenger-005b0883-5947-45f4-9f88-cbb7c35cab17,2,agent,Oskar Schindler Street,LOCATION
+0000181,dfMessenger-005b0883-5947-45f4-9f88-cbb7c35cab17,2,agent,Rabbi Rat Meshulam,LOCATION
+0000181,dfMessenger-005b0883-5947-45f4-9f88-cbb7c35cab17,2,agent,Haim Tzadok Street,LOCATION
+0000181,dfMessenger-005b0883-5947-45f4-9f88-cbb7c35cab17,2,agent,Government City Hall,LOCATION
+0000181,dfMessenger-005b0883-5947-45f4-9f88-cbb7c35cab17,2,agent,Plan No. 542/A,PERMIT_DOC
+0000182,dfMessenger-005b90c9-0a51-47a7-ae9c-cc6056c6dc5d,2,user,Orly Biton,PERSON
+0000182,dfMessenger-005b90c9-0a51-47a7-ae9c-cc6056c6dc5d,2,user,Bar Ilan Studios,DEPARTMENT
+0000183,dfMessenger-005b90c9-0a51-47a7-ae9c-cc6056c6dc5d,2,agent,Bar Ilan Studio,DEPARTMENT
+0000184,dfMessenger-005eecd9-6b34-4309-bd53-e0341cd01e3c,2,user,Poleg Beach,LOCATION
+0000184,dfMessenger-005eecd9-6b34-4309-bd53-e0341cd01e3c,2,user,Riga,LOCATION
+0000185,dfMessenger-005eecd9-6b34-4309-bd53-e0341cd01e3c,2,agent,Poleg Beach,LOCATION
+0000185,dfMessenger-005eecd9-6b34-4309-bd53-e0341cd01e3c,2,agent,Briga Street,LOCATION
+0000185,dfMessenger-005eecd9-6b34-4309-bd53-e0341cd01e3c,2,agent,Poleg Heights,LOCATION
+0000191,dfMessenger-005f6f6d-e8bc-4c76-b3f7-549dc8a599e2,2,agent,National Insurance,DEPARTMENT
+0000191,dfMessenger-005f6f6d-e8bc-4c76-b3f7-549dc8a599e2,2,agent,Ministry of Finance,DEPARTMENT
+0000191,dfMessenger-005f6f6d-e8bc-4c76-b3f7-549dc8a599e2,2,agent,"National Insurance Regulations (Disabled Child), 5775-2010",LAW_REGULATION
+0000191,dfMessenger-005f6f6d-e8bc-4c76-b3f7-549dc8a599e2,2,agent,"Disabled (Benefits and Rehabilitation) Law, 5779-1959",LAW_REGULATION
+0000191,dfMessenger-005f6f6d-e8bc-4c76-b3f7-549dc8a599e2,2,agent,National Insurance Institute,DEPARTMENT
+0000191,dfMessenger-005f6f6d-e8bc-4c76-b3f7-549dc8a599e2,2,agent,Discounts Committee,DEPARTMENT
+0000191,dfMessenger-005f6f6d-e8bc-4c76-b3f7-549dc8a599e2,2,agent,2025,DATE_TIME
+0000193,dfMessenger-00613c95-5b16-45db-89e8-ea216e5e85aa,4,agent,Resident Service Center,DEPARTMENT
+0000193,dfMessenger-00613c95-5b16-45db-89e8-ea216e5e85aa,4,agent,09-8604400,CONTACT_INFO
+0000193,dfMessenger-00613c95-5b16-45db-89e8-ea216e5e85aa,4,agent,Sunday-Thursday from 08:30-11:30,DATE_TIME
+0000193,dfMessenger-00613c95-5b16-45db-89e8-ea216e5e85aa,4,agent,Wednesday also from 16:30-18:30,DATE_TIME
+0000193,dfMessenger-00613c95-5b16-45db-89e8-ea216e5e85aa,4,agent,Sunday,DATE_TIME
+0000193,dfMessenger-00613c95-5b16-45db-89e8-ea216e5e85aa,4,agent,Mondays and Tuesdays,DATE_TIME
+0000193,dfMessenger-00613c95-5b16-45db-89e8-ea216e5e85aa,4,agent,11:30-13:30,DATE_TIME
+0000193,dfMessenger-00613c95-5b16-45db-89e8-ea216e5e85aa,4,agent,Wednesdays-Thursday,DATE_TIME
+0000193,dfMessenger-00613c95-5b16-45db-89e8-ea216e5e85aa,4,agent,11:30-12:30,DATE_TIME
+0000193,dfMessenger-00613c95-5b16-45db-89e8-ea216e5e85aa,4,agent,municipal hotline 106,CONTACT_INFO
+0000193,dfMessenger-00613c95-5b16-45db-89e8-ea216e5e85aa,4,agent,09-8604400,CONTACT_INFO
+0000195,dfMessenger-00613c95-5b16-45db-89e8-ea216e5e85aa,3,agent,Netanya Municipality Parking Collection Department,DEPARTMENT
+0000195,dfMessenger-00613c95-5b16-45db-89e8-ea216e5e85aa,3,agent,09-8604427,CONTACT_INFO
+0000197,dfMessenger-00613c95-5b16-45db-89e8-ea216e5e85aa,2,agent,04-6961340,CONTACT_INFO
+0000197,dfMessenger-00613c95-5b16-45db-89e8-ea216e5e85aa,2,agent,Netanya Municipality,DEPARTMENT
+0000198,dfMessenger-0061910d-095f-405f-88f2-f7d32e3b96b0,2,user,Givat Irosim,LOCATION
+0000199,dfMessenger-0061910d-095f-405f-88f2-f7d32e3b96b0,2,agent,Geva 57,LOCATION
+0000200,dfMessenger-0064365b-4a8d-4b65-8679-a9cdd99298af,2,user,Blue Lagoon,LOCATION
+0000200,dfMessenger-0064365b-4a8d-4b65-8679-a9cdd99298af,2,user,today,DATE_TIME
+0000201,dfMessenger-0064365b-4a8d-4b65-8679-a9cdd99298af,2,agent,Blue Axis Public Garden,LOCATION
+0000201,dfMessenger-0064365b-4a8d-4b65-8679-a9cdd99298af,2,agent,Sunday through Saturday from 9:00 AM to 11:00 PM,DATE_TIME
+0000201,dfMessenger-0064365b-4a8d-4b65-8679-a9cdd99298af,2,agent,Sunday through Wednesday from 10:00 AM to 2:00 PM,DATE_TIME
+0000201,dfMessenger-0064365b-4a8d-4b65-8679-a9cdd99298af,2,agent,from 4:00 PM to 7:00 PM,DATE_TIME
+0000201,dfMessenger-0064365b-4a8d-4b65-8679-a9cdd99298af,2,agent,Ir Yamim,LOCATION
+0000201,dfMessenger-0064365b-4a8d-4b65-8679-a9cdd99298af,2,agent,Netanya Municipality,LAW_REGULATION
+0000203,dfMessenger-00647c11-c059-4df0-802e-4cfb5b1a6181,3,agent,2025,DATE_TIME
+0000203,dfMessenger-00647c11-c059-4df0-802e-4cfb5b1a6181,3,agent,Netanya Municipality,LAW_REGULATION
+0000205,dfMessenger-00647c11-c059-4df0-802e-4cfb5b1a6181,2,agent,10 NIS,MONEY_FEE
+0000205,dfMessenger-00647c11-c059-4df0-802e-4cfb5b1a6181,2,agent,20 NIS,MONEY_FEE
+0000205,dfMessenger-00647c11-c059-4df0-802e-4cfb5b1a6181,2,agent,25 NIS,MONEY_FEE
+0000205,dfMessenger-00647c11-c059-4df0-802e-4cfb5b1a6181,2,agent,5 business days,DATE_TIME
+0000206,dfMessenger-00648420-bc36-4a3c-8210-aa6ab1bb4ef6,5,user,Mesila Public Park,LOCATION
+0000207,dfMessenger-00648420-bc36-4a3c-8210-aa6ab1bb4ef6,5,agent,Mesilot Public Park,LOCATION
+0000207,dfMessenger-00648420-bc36-4a3c-8210-aa6ab1bb4ef6,5,agent,between 5:00 PM and 11:00 PM,DATE_TIME
+0000207,dfMessenger-00648420-bc36-4a3c-8210-aa6ab1bb4ef6,5,agent,between 8:00 AM and 12:00 PM,DATE_TIME
+0000209,dfMessenger-00648420-bc36-4a3c-8210-aa6ab1bb4ef6,4,agent,Winter Puddle Public Park,LOCATION
+0000209,dfMessenger-00648420-bc36-4a3c-8210-aa6ab1bb4ef6,4,agent,between 5:00 PM and 11:00 PM,DATE_TIME
+0000209,dfMessenger-00648420-bc36-4a3c-8210-aa6ab1bb4ef6,4,agent,between 8:00 AM and 12:00 PM,DATE_TIME
+0000211,dfMessenger-00648420-bc36-4a3c-8210-aa6ab1bb4ef6,3,agent,Winter Puddle Park,LOCATION
+0000211,dfMessenger-00648420-bc36-4a3c-8210-aa6ab1bb4ef6,3,agent,between 5:00 PM and 11:00 PM,DATE_TIME
+0000211,dfMessenger-00648420-bc36-4a3c-8210-aa6ab1bb4ef6,3,agent,between 8:00 AM and 12:00 PM,DATE_TIME
+0000212,dfMessenger-00648420-bc36-4a3c-8210-aa6ab1bb4ef6,2,user,Mesila Public Park,LOCATION
+0000212,dfMessenger-00648420-bc36-4a3c-8210-aa6ab1bb4ef6,2,user,in the evening,DATE_TIME
+0000213,dfMessenger-00648420-bc36-4a3c-8210-aa6ab1bb4ef6,2,agent,Gan Mesilot,LOCATION
+0000213,dfMessenger-00648420-bc36-4a3c-8210-aa6ab1bb4ef6,2,agent,between 5:00 PM and 11:00 PM,DATE_TIME
+0000213,dfMessenger-00648420-bc36-4a3c-8210-aa6ab1bb4ef6,2,agent,between 8:00 AM and 12:00 PM,DATE_TIME
+0000215,dfMessenger-00679774-5ffd-4d37-9ba6-1f24cb1c3aa2,3,agent,January 2021,DATE_TIME
+0000217,dfMessenger-00679774-5ffd-4d37-9ba6-1f24cb1c3aa2,2,agent,January 2021,DATE_TIME
+0000217,dfMessenger-00679774-5ffd-4d37-9ba6-1f24cb1c3aa2,2,agent,Pango,LAW_REGULATION
+0000217,dfMessenger-00679774-5ffd-4d37-9ba6-1f24cb1c3aa2,2,agent,Sellopark,LAW_REGULATION
+0000217,dfMessenger-00679774-5ffd-4d37-9ba6-1f24cb1c3aa2,2,agent,04-6961340,CONTACT_INFO
+0000217,dfMessenger-00679774-5ffd-4d37-9ba6-1f24cb1c3aa2,2,agent,Metropark,LAW_REGULATION
+0000217,dfMessenger-00679774-5ffd-4d37-9ba6-1f24cb1c3aa2,2,agent,within 30 days,DATE_TIME
+0000217,dfMessenger-00679774-5ffd-4d37-9ba6-1f24cb1c3aa2,2,agent,within 90 days,DATE_TIME
+0000217,dfMessenger-00679774-5ffd-4d37-9ba6-1f24cb1c3aa2,2,agent,15398608609,CONTACT_INFO
+0000217,dfMessenger-00679774-5ffd-4d37-9ba6-1f24cb1c3aa2,2,agent,"P.O. Box 7031, Netanya, ZIP code 42120",CONTACT_INFO
+0000217,dfMessenger-00679774-5ffd-4d37-9ba6-1f24cb1c3aa2,2,agent,Netanya Parking and Parking Bylaw,LAW_REGULATION
+0000219,dfMessenger-0067ad2b-a757-4116-a2b1-f5fa16cd8585,3,agent,Netanya,LOCATION
+0000219,dfMessenger-0067ad2b-a757-4116-a2b1-f5fa16cd8585,3,agent,Argaman Lagoon Beach,LOCATION
+0000219,dfMessenger-0067ad2b-a757-4116-a2b1-f5fa16cd8585,3,agent,Blue Bay Beach,LOCATION
+0000219,dfMessenger-0067ad2b-a757-4116-a2b1-f5fa16cd8585,3,agent,Amphi Beach,LOCATION
+0000219,dfMessenger-0067ad2b-a757-4116-a2b1-f5fa16cd8585,3,agent,Ha'Oon Beach,LOCATION
+0000219,dfMessenger-0067ad2b-a757-4116-a2b1-f5fa16cd8585,3,agent,Herzl Beach,LOCATION
+0000219,dfMessenger-0067ad2b-a757-4116-a2b1-f5fa16cd8585,3,agent,Sironit A Beach,LOCATION
+0000219,dfMessenger-0067ad2b-a757-4116-a2b1-f5fa16cd8585,3,agent,Sironit B Beach,LOCATION
+0000219,dfMessenger-0067ad2b-a757-4116-a2b1-f5fa16cd8585,3,agent,Poleg Beach,LOCATION
+0000219,dfMessenger-0067ad2b-a757-4116-a2b1-f5fa16cd8585,3,agent,Sanz Beach,LOCATION
+0000219,dfMessenger-0067ad2b-a757-4116-a2b1-f5fa16cd8585,3,agent,Sironit Beach,LOCATION
+0000219,dfMessenger-0067ad2b-a757-4116-a2b1-f5fa16cd8585,3,agent,between 08:30 in the morning and half an hour before sunset,DATE_TIME
+0000219,dfMessenger-0067ad2b-a757-4116-a2b1-f5fa16cd8585,3,agent,06:30 in the morning and half an hour before sunset,DATE_TIME
+0000220,dfMessenger-0067ad2b-a757-4116-a2b1-f5fa16cd8585,2,user,Netanya,LOCATION
+0000221,dfMessenger-0067ad2b-a757-4116-a2b1-f5fa16cd8585,2,agent,Netanya,LOCATION
+0000221,dfMessenger-0067ad2b-a757-4116-a2b1-f5fa16cd8585,2,agent,Netanya Municipality,LAW_REGULATION
+0000221,dfMessenger-0067ad2b-a757-4116-a2b1-f5fa16cd8585,2,agent,Sironit Beach,LOCATION
+0000221,dfMessenger-0067ad2b-a757-4116-a2b1-f5fa16cd8585,2,agent,From 08:30 until half an hour before sunset,DATE_TIME
+0000221,dfMessenger-0067ad2b-a757-4116-a2b1-f5fa16cd8585,2,agent,from 06:30,DATE_TIME
+0000221,dfMessenger-0067ad2b-a757-4116-a2b1-f5fa16cd8585,2,agent,Ministry of Environmental Protection,LAW_REGULATION
+0000221,dfMessenger-0067ad2b-a757-4116-a2b1-f5fa16cd8585,2,agent,Sironit Beach A,LOCATION
+0000221,dfMessenger-0067ad2b-a757-4116-a2b1-f5fa16cd8585,2,agent,Sironit Beach B,LOCATION
+0000221,dfMessenger-0067ad2b-a757-4116-a2b1-f5fa16cd8585,2,agent,Sanz Beach,LOCATION
+0000221,dfMessenger-0067ad2b-a757-4116-a2b1-f5fa16cd8585,2,agent,09-9678111,CONTACT_INFO
+0000222,dfMessenger-0068b430-749e-4961-8fe9-0d8ce7e0265b,2,user,Noha,PERSON
+0000224,dfMessenger-006a8bad-8fa5-432c-b7a0-6f394d4f8fe3,2,user,No. 151912,SERVICE_REQUEST
+0000225,dfMessenger-006a8bad-8fa5-432c-b7a0-6f394d4f8fe3,2,agent,151912,SERVICE_REQUEST
+0000225,dfMessenger-006a8bad-8fa5-432c-b7a0-6f394d4f8fe3,2,agent,106,CONTACT_INFO
+0000225,dfMessenger-006a8bad-8fa5-432c-b7a0-6f394d4f8fe3,2,agent,052-6333106,CONTACT_INFO
+0000227,dfMessenger-006c869c-77ae-45e4-8180-1c6b176bfb4a,2,agent,Netanya Municipality,DEPARTMENT
+0000227,dfMessenger-006c869c-77ae-45e4-8180-1c6b176bfb4a,2,agent,Standing Orders Department,DEPARTMENT
+0000227,dfMessenger-006c869c-77ae-45e4-8180-1c6b176bfb4a,2,agent,Revenue Division,DEPARTMENT
+0000227,dfMessenger-006c869c-77ae-45e4-8180-1c6b176bfb4a,2,agent,"""Standing Orders Department, Revenue Division, Netanya Municipality"", 4 A Hatzoran Street, 2nd floor, Entrance 7, Sapir Business and Technology Park, Netanya, 42506",LOCATION
+0000227,dfMessenger-006c869c-77ae-45e4-8180-1c6b176bfb4a,2,agent,09-8352299,CONTACT_INFO
+0000227,dfMessenger-006c869c-77ae-45e4-8180-1c6b176bfb4a,2,agent,09-8606525,CONTACT_INFO
+0000227,dfMessenger-006c869c-77ae-45e4-8180-1c6b176bfb4a,2,agent,the 2nd or 28th of the month,DATE_TIME
+0000229,dfMessenger-006d6829-ca86-44a9-9b21-212ef506de71,2,agent,Netanya Municipality,DEPARTMENT
+0000229,dfMessenger-006d6829-ca86-44a9-9b21-212ef506de71,2,agent,Senior Citizen Permit (75+),PERMIT_DOC
+0000230,dfMessenger-006e3059-c654-4f74-b707-fdf9c1fc3125,2,user,Bo Gurion,LOCATION
+0000230,dfMessenger-006e3059-c654-4f74-b707-fdf9c1fc3125,2,user,today,DATE_TIME
+0000231,dfMessenger-006e3059-c654-4f74-b707-fdf9c1fc3125,2,agent,Ben Gurion Street,LOCATION
+0000231,dfMessenger-006e3059-c654-4f74-b707-fdf9c1fc3125,2,agent,"November 16, 2025",DATE_TIME
+0000231,dfMessenger-006e3059-c654-4f74-b707-fdf9c1fc3125,2,agent,"November 16-20, 2025",DATE_TIME
+0000233,dfMessenger-00704df3-7eff-4ee7-a737-ec58ef36f7b5,2,agent,04-6961340,CONTACT_INFO
+0000233,dfMessenger-00704df3-7eff-4ee7-a737-ec58ef36f7b5,2,agent,15398608609,CONTACT_INFO
+0000233,dfMessenger-00704df3-7eff-4ee7-a737-ec58ef36f7b5,2,agent,"P.O. Box 7031, Netanya, ZIP 42120",LOCATION
+0000233,dfMessenger-00704df3-7eff-4ee7-a737-ec58ef36f7b5,2,agent,"PO Box 7031, Netanya, ZIP Code 42120",LOCATION
+0000233,dfMessenger-00704df3-7eff-4ee7-a737-ec58ef36f7b5,2,agent,09-8604427,CONTACT_INFO
+0000233,dfMessenger-00704df3-7eff-4ee7-a737-ec58ef36f7b5,2,agent,Parking Collection Department,DEPARTMENT
+0000233,dfMessenger-00704df3-7eff-4ee7-a737-ec58ef36f7b5,2,agent,within 30 days of receiving the notice,DATE_TIME
+0000233,dfMessenger-00704df3-7eff-4ee7-a737-ec58ef36f7b5,2,agent,within 90 days of receiving the notice,DATE_TIME
+0000234,dfMessenger-00719159-c93e-4aec-8866-854ea207027a,3,user,Land Registry,DEPARTMENT
+0000235,dfMessenger-00719159-c93e-4aec-8866-854ea207027a,3,agent,Improvement Department,DEPARTMENT
+0000235,dfMessenger-00719159-c93e-4aec-8866-854ea207027a,3,agent,60 NIS,MONEY_FEE
+0000239,dfMessenger-0071b975-a0ec-4ffe-abef-d536d657520a,3,agent,"""Netanya Water""",DEPARTMENT
+0000239,dfMessenger-0071b975-a0ec-4ffe-abef-d536d657520a,3,agent,1800-20-20-84,CONTACT_INFO
+0000239,dfMessenger-0071b975-a0ec-4ffe-abef-d536d657520a,3,agent,"Aharonson, Geva and Binyamin Boulevards",LOCATION
+0000239,dfMessenger-0071b975-a0ec-4ffe-abef-d536d657520a,3,agent,"January 31, 2025",DATE_TIME
+0000239,dfMessenger-0071b975-a0ec-4ffe-abef-d536d657520a,3,agent,"February 19, 2025",DATE_TIME
+0000239,dfMessenger-0071b975-a0ec-4ffe-abef-d536d657520a,3,agent,"February 20, 2025",DATE_TIME
+0000239,dfMessenger-0071b975-a0ec-4ffe-abef-d536d657520a,3,agent,"February 22, 2025",DATE_TIME
+0000239,dfMessenger-0071b975-a0ec-4ffe-abef-d536d657520a,3,agent,Ministry of Health,DEPARTMENT
+0000241,dfMessenger-0071b975-a0ec-4ffe-abef-d536d657520a,2,agent,the 2nd or 28th of the month,DATE_TIME
+0000241,dfMessenger-0071b975-a0ec-4ffe-abef-d536d657520a,2,agent,the 2nd or 28th of each month,DATE_TIME
+0000243,dfMessenger-0071e5ad-3618-438b-bd78-9ae0b8ff8bca,3,agent,Netanya Municipality,DEPARTMENT
+0000243,dfMessenger-0071e5ad-3618-438b-bd78-9ae0b8ff8bca,3,agent,Business Licensing Customer Service Department,DEPARTMENT
+0000243,dfMessenger-0071e5ad-3618-438b-bd78-9ae0b8ff8bca,3,agent,09-8605865,CONTACT_INFO
+0000243,dfMessenger-0071e5ad-3618-438b-bd78-9ae0b8ff8bca,3,agent,09-8605864/20,CONTACT_INFO
+0000243,dfMessenger-0071e5ad-3618-438b-bd78-9ae0b8ff8bca,3,agent,09-7490532,CONTACT_INFO
+0000243,dfMessenger-0071e5ad-3618-438b-bd78-9ae0b8ff8bca,3,agent,"Weizman 22, 4th floor, Netanya",LOCATION
+0000243,dfMessenger-0071e5ad-3618-438b-bd78-9ae0b8ff8bca,3,agent,"Sunday-Thursday, 8:30-13:00, Tuesday also 16:00-18:00",DATE_TIME
+0000245,dfMessenger-0071e5ad-3618-438b-bd78-9ae0b8ff8bca,2,agent,Netanya Municipality,DEPARTMENT
+0000245,dfMessenger-0071e5ad-3618-438b-bd78-9ae0b8ff8bca,2,agent,Business Licensing Customer Service Department,DEPARTMENT
+0000245,dfMessenger-0071e5ad-3618-438b-bd78-9ae0b8ff8bca,2,agent,"22 Weizman Street, 4th floor, Netanya",LOCATION
+0000245,dfMessenger-0071e5ad-3618-438b-bd78-9ae0b8ff8bca,2,agent,09-8605865,CONTACT_INFO
+0000245,dfMessenger-0071e5ad-3618-438b-bd78-9ae0b8ff8bca,2,agent,09-8605864 /20,CONTACT_INFO
+0000245,dfMessenger-0071e5ad-3618-438b-bd78-9ae0b8ff8bca,2,agent,Fire Department,DEPARTMENT
+0000245,dfMessenger-0071e5ad-3618-438b-bd78-9ae0b8ff8bca,2,agent,Ministry of Health,DEPARTMENT
+0000246,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,3,user,Ural Tsabari,PERSON
+0000247,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,3,agent,Oral Tzabari,PERSON
+0000247,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,3,agent,August,DATE_TIME
+0000247,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,3,agent,"Planatanya, Chauna Sugihara 1, Netanya",LOCATION
+0000247,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,3,agent,"August 17, 19-22, 24",DATE_TIME
+0000247,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,3,agent,60 NIS,MONEY_FEE
+0000247,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,3,agent,"New Independence Square, Herzl 1, Netanya",LOCATION
+0000247,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,3,agent,"Tuesday, August 12",DATE_TIME
+0000247,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,3,agent,"Municipal Culture Hall Auditorium, Raziel 4, Netanya",LOCATION
+0000247,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,3,agent,August 16 at 9:30 PM,DATE_TIME
+0000247,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,3,agent,189 NIS,MONEY_FEE
+0000247,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,3,agent,Dafna Dekel,PERSON
+0000247,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,3,agent,Diana Golby,PERSON
+0000247,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,3,agent,May Meller,PERSON
+0000247,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,3,agent,Eli Gorenstein,PERSON
+0000247,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,3,agent,Arik Einstein,PERSON
+0000247,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,3,agent,Sportek Ir Yamim (after the tennis complex),LOCATION
+0000247,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,3,agent,August 19 at 7:30 PM,DATE_TIME
+0000247,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,3,agent,50 NIS,MONEY_FEE
+0000247,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,3,agent,Eliad Nachum,PERSON
+0000247,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,3,agent,Avi Avoromi,PERSON
+0000247,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,3,agent,Mor Rabi,PERSON
+0000247,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,3,agent,Duda Gang,PERSON
+0000247,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,3,agent,"Heikhal Hatarbut, 4 Raziel St., Netanya",LOCATION
+0000247,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,3,agent,August 19 at 8:00 PM,DATE_TIME
+0000247,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,3,agent,80 NIS,MONEY_FEE
+0000247,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,3,agent,Zion Golan,PERSON
+0000247,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,3,agent,Bracha Cohen,PERSON
+0000247,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,3,agent,Avner Gadassi,PERSON
+0000247,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,3,agent,Ovadia Ben Shalom,PERSON
+0000247,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,3,agent,August 20-22,DATE_TIME
+0000247,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,3,agent,Danny Robs,PERSON
+0000247,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,3,agent,Sarit Hadad,PERSON
+0000247,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,3,agent,Ruhama Raz,PERSON
+0000247,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,3,agent,20/8 Tuesday 21:00,DATE_TIME
+0000247,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,3,agent,20/8 Tuesday 18:30,DATE_TIME
+0000248,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,2,user,Oral Tzabari,PERSON
+0000248,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,2,user,August,DATE_TIME
+0000249,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,2,agent,August,DATE_TIME
+0000249,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,2,agent,"Planatanya, Chauna Sugihara 1, Netanya",LOCATION
+0000249,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,2,agent,"August 17, 19-22, 24",DATE_TIME
+0000249,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,2,agent,60 NIS,MONEY_FEE
+0000249,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,2,agent,"New Independence Square, Herzl 1, Netanya",LOCATION
+0000249,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,2,agent,"Tuesday, August 12",DATE_TIME
+0000249,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,2,agent,"Municipal Culture Hall Auditorium, Raziel 4, Netanya",LOCATION
+0000249,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,2,agent,August 16 at 9:30 PM,DATE_TIME
+0000249,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,2,agent,189 NIS,MONEY_FEE
+0000249,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,2,agent,Dafna Dekel,PERSON
+0000249,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,2,agent,Diana Golby,PERSON
+0000249,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,2,agent,May Meller,PERSON
+0000249,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,2,agent,Eli Gorenstein,PERSON
+0000249,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,2,agent,Arik Einstein,PERSON
+0000249,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,2,agent,Sportek Ir Yamim (after the tennis complex),LOCATION
+0000249,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,2,agent,August 19 at 7:30 PM,DATE_TIME
+0000249,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,2,agent,50 NIS,MONEY_FEE
+0000249,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,2,agent,Eliad Nachum,PERSON
+0000249,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,2,agent,Avi Avoromi,PERSON
+0000249,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,2,agent,Mor Rabi,PERSON
+0000249,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,2,agent,Duda Gang,PERSON
+0000249,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,2,agent,"Heikhal Hatarbut, 4 Raziel St., Netanya",LOCATION
+0000249,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,2,agent,August 19 at 8:00 PM,DATE_TIME
+0000249,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,2,agent,80 NIS,MONEY_FEE
+0000249,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,2,agent,Zion Golan,PERSON
+0000249,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,2,agent,Bracha Cohen,PERSON
+0000249,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,2,agent,Avner Gadassi,PERSON
+0000249,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,2,agent,Ovadia Ben Shalom,PERSON
+0000249,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,2,agent,August 20-22,DATE_TIME
+0000249,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,2,agent,Danny Robs,PERSON
+0000249,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,2,agent,Sarit Hadad,PERSON
+0000249,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,2,agent,Ruhama Raz,PERSON
+0000249,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,2,agent,20/8 Tuesday 21:00,DATE_TIME
+0000249,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,2,agent,20/8 Tuesday 18:30,DATE_TIME
+0000249,dfMessenger-007445e2-61ab-4b6c-aac7-01e7c1786785,2,agent,Naomi,PERSON
+0000250,dfMessenger-00750dc6-9783-4221-94de-edfa9e4360d4,2,user,Sanz Beach,LOCATION
+0000251,dfMessenger-00750dc6-9783-4221-94de-edfa9e4360d4,2,agent,8:30 AM to half an hour before sunset,DATE_TIME
+0000251,dfMessenger-00750dc6-9783-4221-94de-edfa9e4360d4,2,agent,Sanz Beach,LOCATION
+0000251,dfMessenger-00750dc6-9783-4221-94de-edfa9e4360d4,2,agent,On Sundays and Tuesdays from 8:30 AM to half an hour before sunset,DATE_TIME
+0000251,dfMessenger-00750dc6-9783-4221-94de-edfa9e4360d4,2,agent,On Thursdays and Fridays from 8:30 AM to 12:00 PM,DATE_TIME
+0000251,dfMessenger-00750dc6-9783-4221-94de-edfa9e4360d4,2,agent,On Mondays and Wednesdays from 8:30 AM to half an hour before sunset,DATE_TIME
+0000251,dfMessenger-00750dc6-9783-4221-94de-edfa9e4360d4,2,agent,The Beaches Department,DEPARTMENT
+0000251,dfMessenger-00750dc6-9783-4221-94de-edfa9e4360d4,2,agent,09-9678111,CONTACT_INFO
+0000251,dfMessenger-00750dc6-9783-4221-94de-edfa9e4360d4,2,agent,"Sunday-Thursday, 8:00 AM-4:00 PM",DATE_TIME
+0000253,dfMessenger-00750eed-fff1-43ba-a222-3a3df57c90d8,22,agent,Netanya Municipality,DEPARTMENT
+0000255,dfMessenger-00750eed-fff1-43ba-a222-3a3df57c90d8,21,agent,Netanya Municipality,DEPARTMENT
+0000255,dfMessenger-00750eed-fff1-43ba-a222-3a3df57c90d8,21,agent,076-5300943,CONTACT_INFO
+0000255,dfMessenger-00750eed-fff1-43ba-a222-3a3df57c90d8,21,agent,Sunday-Thursday from 8:00 AM to 8:00 PM,DATE_TIME
+0000255,dfMessenger-00750eed-fff1-43ba-a222-3a3df57c90d8,21,agent,Fridays and holiday eves from 8:00 AM to 12:00 PM,DATE_TIME
+0000255,dfMessenger-00750eed-fff1-43ba-a222-3a3df57c90d8,21,agent,03-9275810,CONTACT_INFO
+0000255,dfMessenger-00750eed-fff1-43ba-a222-3a3df57c90d8,21,agent,Revenue Division,DEPARTMENT
+0000255,dfMessenger-00750eed-fff1-43ba-a222-3a3df57c90d8,21,agent,Sunday-Thursday between 08:00-13:00,DATE_TIME
+0000255,dfMessenger-00750eed-fff1-43ba-a222-3a3df57c90d8,21,agent,Wednesday also between 16:30-18:00,DATE_TIME
+0000255,dfMessenger-00750eed-fff1-43ba-a222-3a3df57c90d8,21,agent,"Hatzoran 4 A, 2nd floor, entrance 7, Sapir Business and Technology Park, Netanya",LOCATION
+0000257,dfMessenger-00750eed-fff1-43ba-a222-3a3df57c90d8,20,agent,Netanya Municipality,DEPARTMENT
+0000259,dfMessenger-00750eed-fff1-43ba-a222-3a3df57c90d8,19,agent,Netanya Municipality,DEPARTMENT
+0000265,dfMessenger-00750eed-fff1-43ba-a222-3a3df57c90d8,16,agent,Netanya Municipality,DEPARTMENT
+0000267,dfMessenger-00750eed-fff1-43ba-a222-3a3df57c90d8,15,agent,Netanya Municipality,DEPARTMENT
+0000286,dfMessenger-00750eed-fff1-43ba-a222-3a3df57c90d8,5,user,Dvir Stern,PERSON
+0000288,dfMessenger-00750eed-fff1-43ba-a222-3a3df57c90d8,4,user,Dvir Stern,PERSON
+0000294,dfMessenger-0078ae57-97a1-4428-a780-5db4e047b2df,3,user,Joe,PERSON
+0000295,dfMessenger-0078ae57-97a1-4428-a780-5db4e047b2df,3,agent,Netanya Municipality,DEPARTMENT
+0000295,dfMessenger-0078ae57-97a1-4428-a780-5db4e047b2df,3,agent,Parking Collection Department,DEPARTMENT
+0000295,dfMessenger-0078ae57-97a1-4428-a780-5db4e047b2df,3,agent,04-6961340,CONTACT_INFO
+0000295,dfMessenger-0078ae57-97a1-4428-a780-5db4e047b2df,3,agent,09-8604427,CONTACT_INFO
+0000295,dfMessenger-0078ae57-97a1-4428-a780-5db4e047b2df,3,agent,153-98606509,CONTACT_INFO
+0000295,dfMessenger-0078ae57-97a1-4428-a780-5db4e047b2df,3,agent,"4 Hatzoran Street, Entrance 7, 2nd floor, Poleg Industrial Zone, Netanya",LOCATION
+0000295,dfMessenger-0078ae57-97a1-4428-a780-5db4e047b2df,3,agent,Sunday - Thursday between 08:00 - 13:00,DATE_TIME
+0000295,dfMessenger-0078ae57-97a1-4428-a780-5db4e047b2df,3,agent,on Wednesday between 16:30 - 18:00,DATE_TIME
+0000295,dfMessenger-0078ae57-97a1-4428-a780-5db4e047b2df,3,agent,Sunday - Thursday between 08:00 - 13:00,DATE_TIME
+0000297,dfMessenger-0078ae57-97a1-4428-a780-5db4e047b2df,2,agent,Netanya,LOCATION
+0000297,dfMessenger-0078ae57-97a1-4428-a780-5db4e047b2df,2,agent,Netanya By-Law (Parking and Parking of Vehicles) 1965,LAW_REGULATION
+0000297,dfMessenger-0078ae57-97a1-4428-a780-5db4e047b2df,2,agent,04-6961340,CONTACT_INFO
+0000297,dfMessenger-0078ae57-97a1-4428-a780-5db4e047b2df,2,agent,15398608609,CONTACT_INFO
+0000297,dfMessenger-0078ae57-97a1-4428-a780-5db4e047b2df,2,agent,"P.O. Box 7031, Netanya, ZIP code 42120",LOCATION
+0000297,dfMessenger-0078ae57-97a1-4428-a780-5db4e047b2df,2,agent,within 30 days of receiving the notice,DATE_TIME
+0000297,dfMessenger-0078ae57-97a1-4428-a780-5db4e047b2df,2,agent,within 90 days of receiving the notice,DATE_TIME
+0000297,dfMessenger-0078ae57-97a1-4428-a780-5db4e047b2df,2,agent,within 90 days of receiving the notice,DATE_TIME
+0000297,dfMessenger-0078ae57-97a1-4428-a780-5db4e047b2df,2,agent,"PO Box 7031, Netanya, ZIP 42120",LOCATION
+0000299,dfMessenger-0078e9d9-46a8-445c-83a9-06243b75c04f,2,agent,076-5300943,CONTACT_INFO
+0000299,dfMessenger-0078e9d9-46a8-445c-83a9-06243b75c04f,2,agent,03-9275810,CONTACT_INFO
+0000299,dfMessenger-0078e9d9-46a8-445c-83a9-06243b75c04f,2,agent,Revenue Division,DEPARTMENT
+0000299,dfMessenger-0078e9d9-46a8-445c-83a9-06243b75c04f,2,agent,"Sunday-Thursday, 8:00-13:00 and on Wednesday also 16:30-18:00",DATE_TIME
+0000299,dfMessenger-0078e9d9-46a8-445c-83a9-06243b75c04f,2,agent,"Hatzoran 4 A, 2nd floor, entrance 7, Sapir Business and Technology Park, Netanya",LOCATION
+0000299,dfMessenger-0078e9d9-46a8-445c-83a9-06243b75c04f,2,agent,Maga'ar Company,DEPARTMENT
+0000299,dfMessenger-0078e9d9-46a8-445c-83a9-06243b75c04f,2,agent,"Sunday-Tuesday-Thursday, 8:00-15:30, Monday 8:00-16:30 and Wednesday 8:00-14:00 and in the afternoon 16:00-18:30",DATE_TIME
+0000299,dfMessenger-0078e9d9-46a8-445c-83a9-06243b75c04f,2,agent,"Pinsker 18, Beit Capital, 2nd floor, room 202, Netanya",LOCATION
+0000299,dfMessenger-0078e9d9-46a8-445c-83a9-06243b75c04f,2,agent,Standing Orders Department,DEPARTMENT
+0000299,dfMessenger-0078e9d9-46a8-445c-83a9-06243b75c04f,2,agent,Netanya Municipality,DEPARTMENT
+0000299,dfMessenger-0078e9d9-46a8-445c-83a9-06243b75c04f,2,agent,"4 A Hatzoran Street, 2nd floor, Entrance 7, Sapir Business and Technology Park, Netanya, 42506",LOCATION
+0000299,dfMessenger-0078e9d9-46a8-445c-83a9-06243b75c04f,2,agent,09-8352299,CONTACT_INFO
+0000299,dfMessenger-0078e9d9-46a8-445c-83a9-06243b75c04f,2,agent,09-8606525,CONTACT_INFO
+0000301,dfMessenger-00790c05-ff26-43fb-b62a-585f4d2d1f98,3,agent,King Solomon 30,LOCATION
+0000302,dfMessenger-00790c05-ff26-43fb-b62a-585f4d2d1f98,2,user,King Solomon 30,LOCATION
+0000303,dfMessenger-00790c05-ff26-43fb-b62a-585f4d2d1f98,2,agent,King Solomon 30,LOCATION
+0000304,dfMessenger-0079e71a-a1e6-49bc-8e7d-c58801f70c12,2,user,Omer,LOCATION
+0000305,dfMessenger-0079e71a-a1e6-49bc-8e7d-c58801f70c12,2,agent,2:00 PM,DATE_TIME
+0000305,dfMessenger-0079e71a-a1e6-49bc-8e7d-c58801f70c12,2,agent,4:00 PM,DATE_TIME
+0000305,dfMessenger-0079e71a-a1e6-49bc-8e7d-c58801f70c12,2,agent,11:00 PM,DATE_TIME
+0000305,dfMessenger-0079e71a-a1e6-49bc-8e7d-c58801f70c12,2,agent,7:00 AM,DATE_TIME
+0000305,dfMessenger-0079e71a-a1e6-49bc-8e7d-c58801f70c12,2,agent,12:00 PM,DATE_TIME
+0000305,dfMessenger-0079e71a-a1e6-49bc-8e7d-c58801f70c12,2,agent,Netanya Municipality,DEPARTMENT
+0000305,dfMessenger-0079e71a-a1e6-49bc-8e7d-c58801f70c12,2,agent,The Supervision and Parking Department,DEPARTMENT
+0000305,dfMessenger-0079e71a-a1e6-49bc-8e7d-c58801f70c12,2,agent,09-8603446,CONTACT_INFO
+0000305,dfMessenger-0079e71a-a1e6-49bc-8e7d-c58801f70c12,2,agent,"Sunday-Thursday, from 9:00 AM to 3:00 PM",DATE_TIME
+0000307,dfMessenger-007a23d3-bd1e-4101-8d16-8a9fff15769f,2,agent,Netanya Municipality,DEPARTMENT
+0000307,dfMessenger-007a23d3-bd1e-4101-8d16-8a9fff15769f,2,agent,External tender No. 1048/25,PERMIT_DOC
+0000307,dfMessenger-007a23d3-bd1e-4101-8d16-8a9fff15769f,2,agent,5/19/2025,DATE_TIME
+0000307,dfMessenger-007a23d3-bd1e-4101-8d16-8a9fff15769f,2,agent,Internal tender No. 65/25,PERMIT_DOC
+0000307,dfMessenger-007a23d3-bd1e-4101-8d16-8a9fff15769f,2,agent,External tender No. 1066/25,PERMIT_DOC
+0000307,dfMessenger-007a23d3-bd1e-4101-8d16-8a9fff15769f,2,agent,5/15/2025,DATE_TIME
+0000307,dfMessenger-007a23d3-bd1e-4101-8d16-8a9fff15769f,2,agent,External tender No. 1056/25,PERMIT_DOC
+0000307,dfMessenger-007a23d3-bd1e-4101-8d16-8a9fff15769f,2,agent,5/13/2025,DATE_TIME
+0000307,dfMessenger-007a23d3-bd1e-4101-8d16-8a9fff15769f,2,agent,"December 31, 2025",DATE_TIME
+0000308,dfMessenger-007a8347-99ef-412e-a91f-c5c4546e072b,3,user,Netanya,LOCATION
+0000309,dfMessenger-007a8347-99ef-412e-a91f-c5c4546e072b,3,agent,Netanya,LOCATION
+0000309,dfMessenger-007a8347-99ef-412e-a91f-c5c4546e072b,3,agent,09-8346847,CONTACT_INFO
+0000309,dfMessenger-007a8347-99ef-412e-a91f-c5c4546e072b,3,agent,Ginsburg Early Childhood Center,DEPARTMENT
+0000309,dfMessenger-007a8347-99ef-412e-a91f-c5c4546e072b,3,agent,"24 Abba Hillel Silver Street, Netanya",LOCATION
+0000309,dfMessenger-007a8347-99ef-412e-a91f-c5c4546e072b,3,agent,"Sunday-Thursday, 8:30-19:00",DATE_TIME
+0000309,dfMessenger-007a8347-99ef-412e-a91f-c5c4546e072b,3,agent,Special Education Division,DEPARTMENT
+0000309,dfMessenger-007a8347-99ef-412e-a91f-c5c4546e072b,3,agent,09-8362824/3,CONTACT_INFO
+0000309,dfMessenger-007a8347-99ef-412e-a91f-c5c4546e072b,3,agent,"12 Tchernichovsky Street, 1st floor, Netanya",LOCATION
+0000309,dfMessenger-007a8347-99ef-412e-a91f-c5c4546e072b,3,agent,"Sunday, Tuesday, Thursday, 8:30-12:00",DATE_TIME
+0000309,dfMessenger-007a8347-99ef-412e-a91f-c5c4546e072b,3,agent,"Monday, Wednesday, 12:00-15:00",DATE_TIME
+0000309,dfMessenger-007a8347-99ef-412e-a91f-c5c4546e072b,3,agent,Chen Hanoch,PERSON
+0000309,dfMessenger-007a8347-99ef-412e-a91f-c5c4546e072b,3,agent,09-8362834,CONTACT_INFO
+0000309,dfMessenger-007a8347-99ef-412e-a91f-c5c4546e072b,3,agent,"12 Tchernichovsky Street, Netanya",LOCATION
+0000309,dfMessenger-007a8347-99ef-412e-a91f-c5c4546e072b,3,agent,Unit for the Care of People with Disabilities and Their Families,DEPARTMENT
+0000309,dfMessenger-007a8347-99ef-412e-a91f-c5c4546e072b,3,agent,09-8605832 / 09-8605834,CONTACT_INFO
+0000312,dfMessenger-007ae9ad-d4bc-4bfa-a0d6-9b72043771bb,2,user,Winter Puddle Park,LOCATION
+0000312,dfMessenger-007ae9ad-d4bc-4bfa-a0d6-9b72043771bb,2,user,today,DATE_TIME
+0000313,dfMessenger-007ae9ad-d4bc-4bfa-a0d6-9b72043771bb,2,agent,Netanya Municipality,DEPARTMENT
+0000313,dfMessenger-007ae9ad-d4bc-4bfa-a0d6-9b72043771bb,2,agent,Summer Events 2024,DATE_TIME
+0000313,dfMessenger-007ae9ad-d4bc-4bfa-a0d6-9b72043771bb,2,agent,Netanya 2025,DATE_TIME
+0000313,dfMessenger-007ae9ad-d4bc-4bfa-a0d6-9b72043771bb,2,agent,Independence Day 2025,DATE_TIME
+0000319,dfMessenger-0081a2c1-373d-43d4-a95a-e15e3f65ad75,2,agent,Netanya Market,LOCATION
+0000319,dfMessenger-0081a2c1-373d-43d4-a95a-e15e3f65ad75,2,agent,Netanya Municipality,DEPARTMENT
+0000319,dfMessenger-0081a2c1-373d-43d4-a95a-e15e3f65ad75,2,agent,public tender 18/24,PERMIT_DOC
+0000319,dfMessenger-0081a2c1-373d-43d4-a95a-e15e3f65ad75,2,agent,300 NIS,MONEY_FEE
+0000319,dfMessenger-0081a2c1-373d-43d4-a95a-e15e3f65ad75,2,agent,09/25/2024,DATE_TIME
+0000319,dfMessenger-0081a2c1-373d-43d4-a95a-e15e3f65ad75,2,agent,12/23/2024,DATE_TIME
+0000319,dfMessenger-0081a2c1-373d-43d4-a95a-e15e3f65ad75,2,agent,12/23/2024 at 3:35 PM,DATE_TIME
+0000319,dfMessenger-0081a2c1-373d-43d4-a95a-e15e3f65ad75,2,agent,1824,PERMIT_DOC
+0000319,dfMessenger-0081a2c1-373d-43d4-a95a-e15e3f65ad75,2,agent,"Weizmann 22, 4th floor, Business Licensing, Tenders and Signage Division",LOCATION
+0000319,dfMessenger-0081a2c1-373d-43d4-a95a-e15e3f65ad75,2,agent,Netanya,LOCATION
+0000320,dfMessenger-00829fd8-0fec-4452-b82c-897733d653e7,2,agent,Netanya Municipality,DEPARTMENT
+0000321,dfMessenger-0084174d-10ba-455a-851e-424e5818e03e,2,user,North Center Welfare Office,DEPARTMENT
+0000322,dfMessenger-0084174d-10ba-455a-851e-424e5818e03e,2,agent,Welfare Office Team North,DEPARTMENT
+0000322,dfMessenger-0084174d-10ba-455a-851e-424e5818e03e,2,agent,"5 McDonald Street, Netanya",LOCATION
+0000322,dfMessenger-0084174d-10ba-455a-851e-424e5818e03e,2,agent,09-8608882,CONTACT_INFO
+0000322,dfMessenger-0084174d-10ba-455a-851e-424e5818e03e,2,agent,"Sunday-Thursday, 8:30 AM-3:30 PM",DATE_TIME
+0000322,dfMessenger-0084174d-10ba-455a-851e-424e5818e03e,2,agent,Welfare Office Team Center,DEPARTMENT
+0000322,dfMessenger-0084174d-10ba-455a-851e-424e5818e03e,2,agent,"8 Tel Hai Street, Netanya",LOCATION
+0000322,dfMessenger-0084174d-10ba-455a-851e-424e5818e03e,2,agent,09-8608978,CONTACT_INFO
+0000322,dfMessenger-0084174d-10ba-455a-851e-424e5818e03e,2,agent,"Sunday-Thursday, 7:30 AM-3:30 PM",DATE_TIME
+0000324,dfMessenger-0084b873-25c1-41c6-a4c0-505d0f77d721,2,agent,Metropark,DEPARTMENT
+0000324,dfMessenger-0084b873-25c1-41c6-a4c0-505d0f77d721,2,agent,Netanya Municipality,DEPARTMENT
+0000324,dfMessenger-0084b873-25c1-41c6-a4c0-505d0f77d721,2,agent,Parking Collection Department,DEPARTMENT
+0000324,dfMessenger-0084b873-25c1-41c6-a4c0-505d0f77d721,2,agent,09-8604427,CONTACT_INFO
+0000325,dfMessenger-00854b51-4be8-444a-940b-d4cb26dc41b5,2,user,Parking ticket payment,SERVICE_REQUEST
+0000326,dfMessenger-00854b51-4be8-444a-940b-d4cb26dc41b5,2,agent,04-6961340,CONTACT_INFO
+0000326,dfMessenger-00854b51-4be8-444a-940b-d4cb26dc41b5,2,agent,Metropark,DEPARTMENT
+0000327,dfMessenger-008bc4af-b950-4801-839c-1d5cf3aa87e0,2,user,Transfer property taxes to my name as a landlord,SERVICE_REQUEST
+0000328,dfMessenger-008bc4af-b950-4801-839c-1d5cf3aa87e0,2,agent,at least 12 months,DATE_TIME
+0000329,dfMessenger-008c3cea-bea5-4b65-83bc-320b3b98de0c,4,user,Or Yehuda Municipality,DEPARTMENT
+0000329,dfMessenger-008c3cea-bea5-4b65-83bc-320b3b98de0c,4,user,Netanya,LOCATION
+0000330,dfMessenger-008c3cea-bea5-4b65-83bc-320b3b98de0c,4,agent,Netanya Municipality,DEPARTMENT
+0000330,dfMessenger-008c3cea-bea5-4b65-83bc-320b3b98de0c,4,agent,2025 school year,DATE_TIME
+0000330,dfMessenger-008c3cea-bea5-4b65-83bc-320b3b98de0c,4,agent,30.01.2025 - 19.02.2025,DATE_TIME
+0000330,dfMessenger-008c3cea-bea5-4b65-83bc-320b3b98de0c,4,agent,Kindergarten Registration Department,DEPARTMENT
+0000330,dfMessenger-008c3cea-bea5-4b65-83bc-320b3b98de0c,4,agent,Tchernichovsky 12,LOCATION
+0000330,dfMessenger-008c3cea-bea5-4b65-83bc-320b3b98de0c,4,agent,Netanya,LOCATION
+0000330,dfMessenger-008c3cea-bea5-4b65-83bc-320b3b98de0c,4,agent,09-8362899,CONTACT_INFO
+0000330,dfMessenger-008c3cea-bea5-4b65-83bc-320b3b98de0c,4,agent,Sunday-Wednesday between 8:00-14:00,DATE_TIME
+0000330,dfMessenger-008c3cea-bea5-4b65-83bc-320b3b98de0c,4,agent,Sunday-Thursday between 08:30-14:00,DATE_TIME
+0000330,dfMessenger-008c3cea-bea5-4b65-83bc-320b3b98de0c,4,agent,Orly Hakimi,PERSON
+0000330,dfMessenger-008c3cea-bea5-4b65-83bc-320b3b98de0c,4,agent,09-8362843,CONTACT_INFO
+0000330,dfMessenger-008c3cea-bea5-4b65-83bc-320b3b98de0c,4,agent,09-8820777,CONTACT_INFO
+0000336,dfMessenger-008ce8d8-9b75-4e40-8688-1cbcece358eb,2,agent,Netanya Municipality,DEPARTMENT
+0000336,dfMessenger-008ce8d8-9b75-4e40-8688-1cbcece358eb,2,agent,at least once a year,DATE_TIME
+0000337,dfMessenger-008cfa24-f600-45fe-ad0a-d6eaed5f0602,2,user,Registration for the Ficus Garden in Netanya,SERVICE_REQUEST
+0000337,dfMessenger-008cfa24-f600-45fe-ad0a-d6eaed5f0602,2,user,Netanya,LOCATION
+0000338,dfMessenger-008cfa24-f600-45fe-ad0a-d6eaed5f0602,2,agent,Ficus Kindergarten,DEPARTMENT
+0000338,dfMessenger-008cfa24-f600-45fe-ad0a-d6eaed5f0602,2,agent,2020 school year,DATE_TIME
+0000338,dfMessenger-008cfa24-f600-45fe-ad0a-d6eaed5f0602,2,agent,30.01.2025 - 19.02.2025,DATE_TIME
+0000338,dfMessenger-008cfa24-f600-45fe-ad0a-d6eaed5f0602,2,agent,"10 Yair Stern Street, Netanya",LOCATION
+0000338,dfMessenger-008cfa24-f600-45fe-ad0a-d6eaed5f0602,2,agent,Netanya Municipality,DEPARTMENT
+0000340,dfMessenger-008d5bd3-c4c7-46e5-9247-8742d557686c,4,agent,King David 1,LOCATION
+0000341,dfMessenger-008d5bd3-c4c7-46e5-9247-8742d557686c,3,user,King David 1,LOCATION
+0000342,dfMessenger-008d5bd3-c4c7-46e5-9247-8742d557686c,3,agent,King David 1,LOCATION
+0000343,dfMessenger-008d5bd3-c4c7-46e5-9247-8742d557686c,2,user,Kontiki Beach,LOCATION
+0000346,dfMessenger-008f7bfe-14ff-495e-a717-5cf44b8926fc,5,agent,Spokesperson's Department,DEPARTMENT
+0000346,dfMessenger-008f7bfe-14ff-495e-a717-5cf44b8926fc,5,agent,Netanya Municipality,DEPARTMENT
+0000346,dfMessenger-008f7bfe-14ff-495e-a717-5cf44b8926fc,5,agent,09-8603306,CONTACT_INFO
+0000346,dfMessenger-008f7bfe-14ff-495e-a717-5cf44b8926fc,5,agent,09-8607633,CONTACT_INFO
+0000346,dfMessenger-008f7bfe-14ff-495e-a717-5cf44b8926fc,5,agent,"Hatzran 6, 2nd floor, Poleg Industrial Area, Netanya",LOCATION
+0000346,dfMessenger-008f7bfe-14ff-495e-a717-5cf44b8926fc,5,agent,"Sunday-Thursday, 9:00-16:00",DATE_TIME
+0000346,dfMessenger-008f7bfe-14ff-495e-a717-5cf44b8926fc,5,agent,Sigal Shambiro,PERSON
+0000346,dfMessenger-008f7bfe-14ff-495e-a717-5cf44b8926fc,5,agent,Lydia Talbi,PERSON
+0000346,dfMessenger-008f7bfe-14ff-495e-a717-5cf44b8926fc,5,agent,Shelly Daniel,PERSON
+0000346,dfMessenger-008f7bfe-14ff-495e-a717-5cf44b8926fc,5,agent,Tal Gratzovsky,PERSON
+0000346,dfMessenger-008f7bfe-14ff-495e-a717-5cf44b8926fc,5,agent,09-8603320,CONTACT_INFO
+0000347,dfMessenger-008f7bfe-14ff-495e-a717-5cf44b8926fc,4,user,Passover Eve,DATE_TIME
+0000347,dfMessenger-008f7bfe-14ff-495e-a717-5cf44b8926fc,4,user,in a week,DATE_TIME
+0000348,dfMessenger-008f7bfe-14ff-495e-a717-5cf44b8926fc,4,agent,Netanya Municipality,DEPARTMENT
+0000348,dfMessenger-008f7bfe-14ff-495e-a717-5cf44b8926fc,4,agent,Passover,DATE_TIME
+0000349,dfMessenger-008f7bfe-14ff-495e-a717-5cf44b8926fc,3,user,Jabotinsky Street,LOCATION
+0000350,dfMessenger-008f7bfe-14ff-495e-a717-5cf44b8926fc,3,agent,Jabotinsky Street,LOCATION
+0000350,dfMessenger-008f7bfe-14ff-495e-a717-5cf44b8926fc,3,agent,Mondays,DATE_TIME
+0000350,dfMessenger-008f7bfe-14ff-495e-a717-5cf44b8926fc,3,agent,Passover,DATE_TIME
+0000350,dfMessenger-008f7bfe-14ff-495e-a717-5cf44b8926fc,3,agent,Netanya Municipality,DEPARTMENT
+0000351,dfMessenger-008f7bfe-14ff-495e-a717-5cf44b8926fc,2,user,Herzl Street,LOCATION
+0000352,dfMessenger-008f7bfe-14ff-495e-a717-5cf44b8926fc,2,agent,47 Herzl,LOCATION
+0000355,dfMessenger-0091607e-748e-47a3-9b5e-c38add532f05,2,user,54657127,CONTACT_INFO
+0000355,dfMessenger-0091607e-748e-47a3-9b5e-c38add532f05,2,user,4114012022,CONTACT_INFO
+0000356,dfMessenger-0091607e-748e-47a3-9b5e-c38add532f05,2,agent,Revenue Department of the Netanya Municipality,DEPARTMENT
+0000356,dfMessenger-0091607e-748e-47a3-9b5e-c38add532f05,2,agent,076-5300943,CONTACT_INFO
+0000357,dfMessenger-0094c824-f35e-4f21-8904-3d2faed505b7,3,user,Tuesday,DATE_TIME
+0000358,dfMessenger-0094c824-f35e-4f21-8904-3d2faed505b7,3,agent,Shavuot,DATE_TIME
+0000358,dfMessenger-0094c824-f35e-4f21-8904-3d2faed505b7,3,agent,"Monday, June 2, 2025",DATE_TIME
+0000358,dfMessenger-0094c824-f35e-4f21-8904-3d2faed505b7,3,agent,"Sunday, June 1, 2025",DATE_TIME
+0000358,dfMessenger-0094c824-f35e-4f21-8904-3d2faed505b7,3,agent,City Cleaning Department,DEPARTMENT
+0000358,dfMessenger-0094c824-f35e-4f21-8904-3d2faed505b7,3,agent,Neve Itamar,LOCATION
+0000358,dfMessenger-0094c824-f35e-4f21-8904-3d2faed505b7,3,agent,Neot Ganim,LOCATION
+0000358,dfMessenger-0094c824-f35e-4f21-8904-3d2faed505b7,3,agent,Kiryat Rabin,LOCATION
+0000358,dfMessenger-0094c824-f35e-4f21-8904-3d2faed505b7,3,agent,Mishkenot Zevulun,LOCATION
+0000358,dfMessenger-0094c824-f35e-4f21-8904-3d2faed505b7,3,agent,Train Station,LOCATION
+0000358,dfMessenger-0094c824-f35e-4f21-8904-3d2faed505b7,3,agent,Sha'ar Ha'ir,LOCATION
+0000358,dfMessenger-0094c824-f35e-4f21-8904-3d2faed505b7,3,agent,Kiryat Hasharon,LOCATION
+0000358,dfMessenger-0094c824-f35e-4f21-8904-3d2faed505b7,3,agent,Sapir Business and Technology Park,LOCATION
+0000358,dfMessenger-0094c824-f35e-4f21-8904-3d2faed505b7,3,agent,Kiryat Eliezer Industrial Zone,LOCATION
+0000358,dfMessenger-0094c824-f35e-4f21-8904-3d2faed505b7,3,agent,Pardes Hagdod,LOCATION
+0000358,dfMessenger-0094c824-f35e-4f21-8904-3d2faed505b7,3,agent,Mechans neighborhood,LOCATION
+0000358,dfMessenger-0094c824-f35e-4f21-8904-3d2faed505b7,3,agent,Kiryat Sanz,LOCATION
+0000358,dfMessenger-0094c824-f35e-4f21-8904-3d2faed505b7,3,agent,Neve Shalom,LOCATION
+0000358,dfMessenger-0094c824-f35e-4f21-8904-3d2faed505b7,3,agent,Ein Tekhelet,LOCATION
+0000358,dfMessenger-0094c824-f35e-4f21-8904-3d2faed505b7,3,agent,Herzl Street,LOCATION
+0000358,dfMessenger-0094c824-f35e-4f21-8904-3d2faed505b7,3,agent,Agamim,LOCATION
+0000358,dfMessenger-0094c824-f35e-4f21-8904-3d2faed505b7,3,agent,Ramat Ephraim,LOCATION
+0000358,dfMessenger-0094c824-f35e-4f21-8904-3d2faed505b7,3,agent,Ben Zion,LOCATION
+0000358,dfMessenger-0094c824-f35e-4f21-8904-3d2faed505b7,3,agent,Nof Hataylet,LOCATION
+0000358,dfMessenger-0094c824-f35e-4f21-8904-3d2faed505b7,3,agent,Neve Oz,LOCATION
+0000358,dfMessenger-0094c824-f35e-4f21-8904-3d2faed505b7,3,agent,Galei Yam,LOCATION
+0000358,dfMessenger-0094c824-f35e-4f21-8904-3d2faed505b7,3,agent,Tobruk,LOCATION
+0000358,dfMessenger-0094c824-f35e-4f21-8904-3d2faed505b7,3,agent,Ramat Hen,LOCATION
+0000358,dfMessenger-0094c824-f35e-4f21-8904-3d2faed505b7,3,agent,Geva,LOCATION
+0000358,dfMessenger-0094c824-f35e-4f21-8904-3d2faed505b7,3,agent,Ben Zvi,LOCATION
+0000358,dfMessenger-0094c824-f35e-4f21-8904-3d2faed505b7,3,agent,Ramat Yadin,LOCATION
+0000358,dfMessenger-0094c824-f35e-4f21-8904-3d2faed505b7,3,agent,Neot Shaked,LOCATION
+0000358,dfMessenger-0094c824-f35e-4f21-8904-3d2faed505b7,3,agent,Givat Hayrosim,LOCATION
+0000358,dfMessenger-0094c824-f35e-4f21-8904-3d2faed505b7,3,agent,Ramat Poleg,LOCATION
+0000358,dfMessenger-0094c824-f35e-4f21-8904-3d2faed505b7,3,agent,Neot Menachem Begin,LOCATION
+0000358,dfMessenger-0094c824-f35e-4f21-8904-3d2faed505b7,3,agent,Kiryat Nordau,LOCATION
+0000358,dfMessenger-0094c824-f35e-4f21-8904-3d2faed505b7,3,agent,Neot Golda,LOCATION
+0000358,dfMessenger-0094c824-f35e-4f21-8904-3d2faed505b7,3,agent,Ha'at Hayrok,LOCATION
+0000358,dfMessenger-0094c824-f35e-4f21-8904-3d2faed505b7,3,agent,6:00,DATE_TIME
+0000358,dfMessenger-0094c824-f35e-4f21-8904-3d2faed505b7,3,agent,09-9665976,CONTACT_INFO
+0000358,dfMessenger-0094c824-f35e-4f21-8904-3d2faed505b7,3,agent,Hotline 106,CONTACT_INFO
+0000359,dfMessenger-0094c824-f35e-4f21-8904-3d2faed505b7,2,user,Sukkot,DATE_TIME
+0000359,dfMessenger-0094c824-f35e-4f21-8904-3d2faed505b7,2,user,Neot Herzl,LOCATION
+0000360,dfMessenger-0094c824-f35e-4f21-8904-3d2faed505b7,2,agent,47 Herzl,LOCATION
+0000362,dfMessenger-00962c29-15c4-4c63-a216-98c2e1417c34,2,agent,Transfer Committee,DEPARTMENT
+0000362,dfMessenger-00962c29-15c4-4c63-a216-98c2e1417c34,2,agent,two weeks,DATE_TIME
+0000362,dfMessenger-00962c29-15c4-4c63-a216-98c2e1417c34,2,agent,August 15,DATE_TIME
+0000362,dfMessenger-00962c29-15c4-4c63-a216-98c2e1417c34,2,agent,end of February,DATE_TIME
+0000362,dfMessenger-00962c29-15c4-4c63-a216-98c2e1417c34,2,agent,11.03.2025,DATE_TIME
+0000362,dfMessenger-00962c29-15c4-4c63-a216-98c2e1417c34,2,agent,Secondary Education Division,DEPARTMENT
+0000362,dfMessenger-00962c29-15c4-4c63-a216-98c2e1417c34,2,agent,09-8362896,CONTACT_INFO
+0000364,dfMessenger-00986f9e-7d31-4b15-b09d-3843152502fe,4,agent,076-5300943,CONTACT_INFO
+0000364,dfMessenger-00986f9e-7d31-4b15-b09d-3843152502fe,4,agent,Sunday-Thursday from 8:00 AM to 8:00 PM,DATE_TIME
+0000364,dfMessenger-00986f9e-7d31-4b15-b09d-3843152502fe,4,agent,Fridays and holiday eves from 8:00 AM to 12:00 PM,DATE_TIME
+0000364,dfMessenger-00986f9e-7d31-4b15-b09d-3843152502fe,4,agent,Revenue Division,DEPARTMENT
+0000364,dfMessenger-00986f9e-7d31-4b15-b09d-3843152502fe,4,agent,Sunday-Thursday from 8:00 AM to 1:00 PM,DATE_TIME
+0000364,dfMessenger-00986f9e-7d31-4b15-b09d-3843152502fe,4,agent,Wednesdays also from 4:30 PM to 6:00 PM,DATE_TIME
+0000364,dfMessenger-00986f9e-7d31-4b15-b09d-3843152502fe,4,agent,"Hatzoran 4A, 2nd floor, entrance 7, Sapir Business and Technology Park, Netanya",LOCATION
+0000364,dfMessenger-00986f9e-7d31-4b15-b09d-3843152502fe,4,agent,Sundays-Tuesdays-Thursdays between 08:00-15:30,DATE_TIME
+0000364,dfMessenger-00986f9e-7d31-4b15-b09d-3843152502fe,4,agent,Mondays between 08:00-16:30,DATE_TIME
+0000364,dfMessenger-00986f9e-7d31-4b15-b09d-3843152502fe,4,agent,Wednesdays from 08:00-14:00,DATE_TIME
+0000364,dfMessenger-00986f9e-7d31-4b15-b09d-3843152502fe,4,agent,afternoons between 16:00-18:30,DATE_TIME
+0000364,dfMessenger-00986f9e-7d31-4b15-b09d-3843152502fe,4,agent,"Pinsker 18, Beit Capital, 2nd floor, room 202, Netanya",LOCATION
+0000364,dfMessenger-00986f9e-7d31-4b15-b09d-3843152502fe,4,agent,Standing Order Department at the Netanya Municipality,DEPARTMENT
+0000366,dfMessenger-00986f9e-7d31-4b15-b09d-3843152502fe,3,agent,076-5300943,CONTACT_INFO
+0000366,dfMessenger-00986f9e-7d31-4b15-b09d-3843152502fe,3,agent,Sunday-Thursday between 08:00-20:00,DATE_TIME
+0000366,dfMessenger-00986f9e-7d31-4b15-b09d-3843152502fe,3,agent,Fridays and holiday eves between 08:00-12:00,DATE_TIME
+0000366,dfMessenger-00986f9e-7d31-4b15-b09d-3843152502fe,3,agent,Revenue Division,DEPARTMENT
+0000366,dfMessenger-00986f9e-7d31-4b15-b09d-3843152502fe,3,agent,Sunday-Thursday between 08:00-13:00,DATE_TIME
+0000366,dfMessenger-00986f9e-7d31-4b15-b09d-3843152502fe,3,agent,Wednesdays also between 16:30-18:00,DATE_TIME
+0000366,dfMessenger-00986f9e-7d31-4b15-b09d-3843152502fe,3,agent,"Hatzoran 4A, 2nd floor, entrance 7, Sapir Business and Technology Park, Netanya",LOCATION
+0000366,dfMessenger-00986f9e-7d31-4b15-b09d-3843152502fe,3,agent,Sundays-Tuesdays-Thursdays between 08:00-15:30,DATE_TIME
+0000366,dfMessenger-00986f9e-7d31-4b15-b09d-3843152502fe,3,agent,Mondays between 08:00-16:30,DATE_TIME
+0000366,dfMessenger-00986f9e-7d31-4b15-b09d-3843152502fe,3,agent,Wednesdays from 08:00-14:00,DATE_TIME
+0000366,dfMessenger-00986f9e-7d31-4b15-b09d-3843152502fe,3,agent,afternoons between 16:00-18:30,DATE_TIME
+0000366,dfMessenger-00986f9e-7d31-4b15-b09d-3843152502fe,3,agent,"Pinsker 18, Beit Capital, 2nd floor, room 202, Netanya",LOCATION
+0000366,dfMessenger-00986f9e-7d31-4b15-b09d-3843152502fe,3,agent,Standing Order Department at the Netanya Municipality,DEPARTMENT
+0000368,dfMessenger-00986f9e-7d31-4b15-b09d-3843152502fe,2,agent,*6179,CONTACT_INFO
+0000368,dfMessenger-00986f9e-7d31-4b15-b09d-3843152502fe,2,agent,Sunday-Thursday between 08:00-20:00,DATE_TIME
+0000368,dfMessenger-00986f9e-7d31-4b15-b09d-3843152502fe,2,agent,Friday between 08:00-12:00,DATE_TIME
+0000368,dfMessenger-00986f9e-7d31-4b15-b09d-3843152502fe,2,agent,Sunday-Thursday between 08:00-13:00,DATE_TIME
+0000368,dfMessenger-00986f9e-7d31-4b15-b09d-3843152502fe,2,agent,Wednesday between 16:30-18:00,DATE_TIME
+0000368,dfMessenger-00986f9e-7d31-4b15-b09d-3843152502fe,2,agent,"4 Hatzoran St., 2nd floor, Entrance 7, Poleg Industrial Zone, Netanya",LOCATION
+0000370,dfMessenger-00989372-774c-438f-b9cd-581ab49027b5,4,agent,106 hotline,CONTACT_INFO
+0000370,dfMessenger-00989372-774c-438f-b9cd-581ab49027b5,4,agent,09-8604400,CONTACT_INFO
+0000370,dfMessenger-00989372-774c-438f-b9cd-581ab49027b5,4,agent,WhatsApp,CONTACT_INFO
+0000370,dfMessenger-00989372-774c-438f-b9cd-581ab49027b5,4,agent,052-6333106,CONTACT_INFO
+0000371,dfMessenger-00989372-774c-438f-b9cd-581ab49027b5,3,user,10 days,DATE_TIME
+0000372,dfMessenger-00989372-774c-438f-b9cd-581ab49027b5,3,agent,Resident Service Center,DEPARTMENT
+0000372,dfMessenger-00989372-774c-438f-b9cd-581ab49027b5,3,agent,09-8604400 ext. 3,CONTACT_INFO
+0000372,dfMessenger-00989372-774c-438f-b9cd-581ab49027b5,3,agent,"2 Hatzoran Street, 1st floor, Netanya",LOCATION
+0000374,dfMessenger-00989372-774c-438f-b9cd-581ab49027b5,2,agent,10 NIS,MONEY_FEE
+0000374,dfMessenger-00989372-774c-438f-b9cd-581ab49027b5,2,agent,20 NIS,MONEY_FEE
+0000374,dfMessenger-00989372-774c-438f-b9cd-581ab49027b5,2,agent,25 NIS,MONEY_FEE
+0000374,dfMessenger-00989372-774c-438f-b9cd-581ab49027b5,2,agent,one year,DATE_TIME
+0000374,dfMessenger-00989372-774c-438f-b9cd-581ab49027b5,2,agent,two years,DATE_TIME
+0000374,dfMessenger-00989372-774c-438f-b9cd-581ab49027b5,2,agent,three years,DATE_TIME
+0000374,dfMessenger-00989372-774c-438f-b9cd-581ab49027b5,2,agent,5 business days,DATE_TIME
+0000374,dfMessenger-00989372-774c-438f-b9cd-581ab49027b5,2,agent,"""Netanya to Home"" bus",SERVICE_REQUEST
+0000374,dfMessenger-00989372-774c-438f-b9cd-581ab49027b5,2,agent,Resident Service Center,DEPARTMENT
+0000375,dfMessenger-0098c7a1-78c5-4c8b-8407-aaf614f27f23,3,user,parking ticket,PERMIT_DOC
+0000376,dfMessenger-0098c7a1-78c5-4c8b-8407-aaf614f27f23,3,agent,04-6961340,CONTACT_INFO
+0000376,dfMessenger-0098c7a1-78c5-4c8b-8407-aaf614f27f23,3,agent,30 days,DATE_TIME
+0000376,dfMessenger-0098c7a1-78c5-4c8b-8407-aaf614f27f23,3,agent,15398608609,CONTACT_INFO
+0000376,dfMessenger-0098c7a1-78c5-4c8b-8407-aaf614f27f23,3,agent,"P.O. Box 7031, Netanya, ZIP code 42120",LOCATION
+0000376,dfMessenger-0098c7a1-78c5-4c8b-8407-aaf614f27f23,3,agent,90 days,DATE_TIME
+0000376,dfMessenger-0098c7a1-78c5-4c8b-8407-aaf614f27f23,3,agent,"P.O. Box 7031, Netanya, ZIP Code 42120",LOCATION
+0000376,dfMessenger-0098c7a1-78c5-4c8b-8407-aaf614f27f23,3,agent,Parking and Inspection Department,DEPARTMENT
+0000376,dfMessenger-0098c7a1-78c5-4c8b-8407-aaf614f27f23,3,agent,Netanya Municipality,LOCATION
+0000376,dfMessenger-0098c7a1-78c5-4c8b-8407-aaf614f27f23,3,agent,Parking Collection Department,DEPARTMENT
+0000376,dfMessenger-0098c7a1-78c5-4c8b-8407-aaf614f27f23,3,agent,09-8604427,CONTACT_INFO
+0000376,dfMessenger-0098c7a1-78c5-4c8b-8407-aaf614f27f23,3,agent,153-98606509,CONTACT_INFO
+0000376,dfMessenger-0098c7a1-78c5-4c8b-8407-aaf614f27f23,3,agent,"4 Hatzoran Street, Entrance 7, 2nd Floor, Poleg Industrial Zone, Netanya",LOCATION
+0000376,dfMessenger-0098c7a1-78c5-4c8b-8407-aaf614f27f23,3,agent,Sunday-Thursday between 08:00-13:00,DATE_TIME
+0000376,dfMessenger-0098c7a1-78c5-4c8b-8407-aaf614f27f23,3,agent,Wednesday between 4:30 PM and 6:00 PM,DATE_TIME
+0000376,dfMessenger-0098c7a1-78c5-4c8b-8407-aaf614f27f23,3,agent,Sunday-Thursday between 8:00 AM and 1:00 PM,DATE_TIME
+0000380,dfMessenger-009b077b-23fc-41da-989d-2d2c18ac922f,2,agent,"""Sefi Rivlin"" Cultural Center in Kiryat Hasharon",LOCATION
+0000380,dfMessenger-009b077b-23fc-41da-989d-2d2c18ac922f,2,agent,August 6-9,DATE_TIME
+0000380,dfMessenger-009b077b-23fc-41da-989d-2d2c18ac922f,2,agent,Independence Square,LOCATION
+0000380,dfMessenger-009b077b-23fc-41da-989d-2d2c18ac922f,2,agent,every Wednesday at 8:00 PM,DATE_TIME
+0000380,dfMessenger-009b077b-23fc-41da-989d-2d2c18ac922f,2,agent,Givat Irosim Community Center,LOCATION
+0000380,dfMessenger-009b077b-23fc-41da-989d-2d2c18ac922f,2,agent,August 25,DATE_TIME
+0000380,dfMessenger-009b077b-23fc-41da-989d-2d2c18ac922f,2,agent,Poleg Ir Yamim Community Center,LOCATION
+0000380,dfMessenger-009b077b-23fc-41da-989d-2d2c18ac922f,2,agent,August 27,DATE_TIME
+0000380,dfMessenger-009b077b-23fc-41da-989d-2d2c18ac922f,2,agent,Feldman House parking lot,LOCATION
+0000380,dfMessenger-009b077b-23fc-41da-989d-2d2c18ac922f,2,agent,August 27-28,DATE_TIME
+0000380,dfMessenger-009b077b-23fc-41da-989d-2d2c18ac922f,2,agent,the new Independence Square,LOCATION
+0000380,dfMessenger-009b077b-23fc-41da-989d-2d2c18ac922f,2,agent,August 28,DATE_TIME
+0000381,dfMessenger-009e5b3d-973c-405d-bde4-9b0d1c4b9b51,3,user,Ramat Poleg,LOCATION
+0000382,dfMessenger-009e5b3d-973c-405d-bde4-9b0d1c4b9b51,3,agent,Ramat Poleg,LOCATION
+0000382,dfMessenger-009e5b3d-973c-405d-bde4-9b0d1c4b9b51,3,agent,Thursdays,DATE_TIME
+0000382,dfMessenger-009e5b3d-973c-405d-bde4-9b0d1c4b9b51,3,agent,09-9665976,CONTACT_INFO
+0000383,dfMessenger-009e5b3d-973c-405d-bde4-9b0d1c4b9b51,2,user,Netanya,LOCATION
+0000384,dfMessenger-009e5b3d-973c-405d-bde4-9b0d1c4b9b51,2,agent,Netanya,LOCATION
+0000384,dfMessenger-009e5b3d-973c-405d-bde4-9b0d1c4b9b51,2,agent,36/25,PERMIT_DOC
+0000384,dfMessenger-009e5b3d-973c-405d-bde4-9b0d1c4b9b51,2,agent,05/29/2025,DATE_TIME
+0000384,dfMessenger-009e5b3d-973c-405d-bde4-9b0d1c4b9b51,2,agent,07/20/2025,DATE_TIME
+0000384,dfMessenger-009e5b3d-973c-405d-bde4-9b0d1c4b9b51,2,agent,Itay Yakar,PERSON
+0000384,dfMessenger-009e5b3d-973c-405d-bde4-9b0d1c4b9b51,2,agent,Environmental Quality Division,DEPARTMENT
+0000384,dfMessenger-009e5b3d-973c-405d-bde4-9b0d1c4b9b51,2,agent,0732534282,CONTACT_INFO
+0000384,dfMessenger-009e5b3d-973c-405d-bde4-9b0d1c4b9b51,2,agent,Garbage Removal Department,DEPARTMENT
+0000384,dfMessenger-009e5b3d-973c-405d-bde4-9b0d1c4b9b51,2,agent,09-8872443,CONTACT_INFO
+0000384,dfMessenger-009e5b3d-973c-405d-bde4-9b0d1c4b9b51,2,agent,Environmental Education Department,DEPARTMENT
+0000384,dfMessenger-009e5b3d-973c-405d-bde4-9b0d1c4b9b51,2,agent,09-8605881,CONTACT_INFO
+0000386,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,5,agent,East Netanya Community Center,DEPARTMENT
+0000386,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,5,agent,09-8627101,CONTACT_INFO
+0000386,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,5,agent,rabin@netanya-gan.matnasim.co.il,CONTACT_INFO
+0000386,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,5,agent,Central-North Community Center Network,DEPARTMENT
+0000386,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,5,agent,09-8356844,CONTACT_INFO
+0000386,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,5,agent,doraz@n-ry.matnasim.co.il,CONTACT_INFO
+0000386,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,5,agent,Leisure and Community Network of Community Centers in South Netanya,DEPARTMENT
+0000386,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,5,agent,09-8355518,CONTACT_INFO
+0000386,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,5,agent,tzahronimd@gmail.com,CONTACT_INFO
+0000386,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,5,agent,The Association for Informal Education,DEPARTMENT
+0000386,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,5,agent,09-9772879,CONTACT_INFO
+0000386,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,5,agent,yana@biltiformali.org.il,CONTACT_INFO
+0000386,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,5,agent,House of Meaning in Ramat Poleg,LOCATION
+0000386,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,5,agent,"28.05.2025, 04.06.2025, 11.06.2025, 18.06.2025 and 25.06.2025 between 09:00-11:30",DATE_TIME
+0000386,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,5,agent,09-8617963,CONTACT_INFO
+0000386,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,5,agent,"28.05.2025, 04.06.2025, 11.06.2025, 18.06.2025 and 25.06.2025 between 11:30-12:30",DATE_TIME
+0000386,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,5,agent,"28.05.2025, 04.06.2025, 11.06.2025, 18.06.2025 and 25.06.2025 between 17:00-18:30",DATE_TIME
+0000386,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,5,agent,Samuel Levi,PERSON
+0000386,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,5,agent,"03.06.2025, 10.06.2025, 17.06.2025 and 24.06.2025 between 09:00-10:00",DATE_TIME
+0000386,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,5,agent,Rami Davidian,PERSON
+0000386,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,5,agent,26.06.2025 between 17:30-18:45,DATE_TIME
+0000386,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,5,agent,29.06.2025 between 14:30-21:00,DATE_TIME
+0000386,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,5,agent,55 NIS,MONEY_FEE
+0000388,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,4,agent,2025 school year,DATE_TIME
+0000388,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,4,agent,01/30/2025,DATE_TIME
+0000388,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,4,agent,02/19/2025,DATE_TIME
+0000388,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,4,agent,www.cityedu.co.il,CONTACT_INFO
+0000388,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,4,agent,Meaning House in Ramat Poleg,LOCATION
+0000388,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,4,agent,"28.05.2025, 04.06.2025, 11.06.2025, 18.06.2025 and 25.06.2025 between 09:00-11:30",DATE_TIME
+0000388,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,4,agent,09-8617963,CONTACT_INFO
+0000388,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,4,agent,"28.05.2025, 04.06.2025, 11.06.2025, 18.06.2025 and 25.06.2025 between 11:30-12:30",DATE_TIME
+0000388,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,4,agent,"28.05.2025, 04.06.2025, 11.06.2025, 18.06.2025 and 25.06.2025 between 17:00-18:30",DATE_TIME
+0000388,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,4,agent,Shmuel Levi,PERSON
+0000388,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,4,agent,"03.06.2025, 10.06.2025, 17.06.2025 and 24.06.2025 between 09:00-10:00",DATE_TIME
+0000388,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,4,agent,Rami Davidian,PERSON
+0000388,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,4,agent,26.06.2025 between 17:30-18:45,DATE_TIME
+0000388,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,4,agent,29.06.2025 between 14:30-21:00,DATE_TIME
+0000388,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,4,agent,55 NIS,MONEY_FEE
+0000390,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,3,agent,The Association for Informal Education,DEPARTMENT
+0000390,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,3,agent,09-9772879,CONTACT_INFO
+0000390,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,3,agent,Central-North Community Center Network,DEPARTMENT
+0000390,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,3,agent,09-8356844,CONTACT_INFO
+0000390,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,3,agent,doraz@n-ry.matnasim.co.il,CONTACT_INFO
+0000390,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,3,agent,Leisure and Community Network of Community Centers in South Netanya,DEPARTMENT
+0000390,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,3,agent,09-8355518,CONTACT_INFO
+0000390,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,3,agent,tzahronimd@gmail.com,CONTACT_INFO
+0000390,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,3,agent,East Netanya Community Center,DEPARTMENT
+0000390,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,3,agent,09-8627101,CONTACT_INFO
+0000390,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,3,agent,rabin@netanya-gan.matnasim.co.il,CONTACT_INFO
+0000390,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,3,agent,Meaning House in Ramat Poleg,LOCATION
+0000390,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,3,agent,"28.05.2025, 04.06.2025, 11.06.2025, 18.06.2025 and 25.06.2025 between 09:00-11:30",DATE_TIME
+0000390,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,3,agent,09-8617963,CONTACT_INFO
+0000390,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,3,agent,"28.05.2025, 04.06.2025, 11.06.2025, 18.06.2025 and 25.06.2025 between 11:30-12:30",DATE_TIME
+0000390,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,3,agent,"28.05.2025, 04.06.2025, 11.06.2025, 18.06.2025 and 25.06.2025 between 17:00-18:30",DATE_TIME
+0000390,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,3,agent,Shmuel Levi,PERSON
+0000390,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,3,agent,"03.06.2025, 10.06.2025, 17.06.2025 and 24.06.2025 between 09:00-10:00",DATE_TIME
+0000390,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,3,agent,Rami Davidian,PERSON
+0000390,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,3,agent,26.06.2025 between 17:30-18:45,DATE_TIME
+0000390,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,3,agent,29.06.2025 between 14:30-21:00,DATE_TIME
+0000390,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,3,agent,55 NIS,MONEY_FEE
+0000391,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,2,user,Great Holiday Mini-Tour,SERVICE_REQUEST
+0000392,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,2,agent,"""School and Kindergartens of the Great Vacation""",SERVICE_REQUEST
+0000392,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,2,agent,July 1 to 21,DATE_TIME
+0000392,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,2,agent,300 NIS,MONEY_FEE
+0000392,dfMessenger-009eb088-b19b-4bea-a9b4-419fd2b81e73,2,agent,Association for Informal Education,DEPARTMENT
+0000393,dfMessenger-009f2969-8a9b-431b-8a92-f841939c8c1d,9,user,Tobruk field,LOCATION
+0000394,dfMessenger-009f2969-8a9b-431b-8a92-f841939c8c1d,9,agent,Tobruk Sports Field (Ben Gurion Opposite 11),LOCATION
+0000394,dfMessenger-009f2969-8a9b-431b-8a92-f841939c8c1d,9,agent,Tobruk Field (Abrahams Diamond),LOCATION
+0000394,dfMessenger-009f2969-8a9b-431b-8a92-f841939c8c1d,9,agent,Tobruk Public Park,LOCATION
+0000394,dfMessenger-009f2969-8a9b-431b-8a92-f841939c8c1d,9,agent,Tobruk neighborhood,LOCATION
+0000396,dfMessenger-009f2969-8a9b-431b-8a92-f841939c8c1d,8,agent,Municipal Supervision Division,DEPARTMENT
+0000396,dfMessenger-009f2969-8a9b-431b-8a92-f841939c8c1d,8,agent,09-8603446,CONTACT_INFO
+0000396,dfMessenger-009f2969-8a9b-431b-8a92-f841939c8c1d,8,agent,Enforcement and Parking Department,DEPARTMENT
+0000396,dfMessenger-009f2969-8a9b-431b-8a92-f841939c8c1d,8,agent,Judicial Selection Department,DEPARTMENT
+0000396,dfMessenger-009f2969-8a9b-431b-8a92-f841939c8c1d,8,agent,09-8606514,CONTACT_INFO
+0000396,dfMessenger-009f2969-8a9b-431b-8a92-f841939c8c1d,8,agent,Abandoned Vehicles Department,DEPARTMENT
+0000396,dfMessenger-009f2969-8a9b-431b-8a92-f841939c8c1d,8,agent,09-8607651,CONTACT_INFO
+0000396,dfMessenger-009f2969-8a9b-431b-8a92-f841939c8c1d,8,agent,Enforcement Supervision Department,DEPARTMENT
+0000396,dfMessenger-009f2969-8a9b-431b-8a92-f841939c8c1d,8,agent,09-8608924,CONTACT_INFO
+0000396,dfMessenger-009f2969-8a9b-431b-8a92-f841939c8c1d,8,agent,Netanya Municipality,LOCATION
+0000398,dfMessenger-009f2969-8a9b-431b-8a92-f841939c8c1d,7,agent,"Business Licensing, Tenders and Signage Department",DEPARTMENT
+0000398,dfMessenger-009f2969-8a9b-431b-8a92-f841939c8c1d,7,agent,Netanya Municipality,LOCATION
+0000398,dfMessenger-009f2969-8a9b-431b-8a92-f841939c8c1d,7,agent,Naftali Kaikov,PERSON
+0000398,dfMessenger-009f2969-8a9b-431b-8a92-f841939c8c1d,7,agent,09-8605822/3,CONTACT_INFO
+0000398,dfMessenger-009f2969-8a9b-431b-8a92-f841939c8c1d,7,agent,09-8605877,CONTACT_INFO
+0000398,dfMessenger-009f2969-8a9b-431b-8a92-f841939c8c1d,7,agent,Motti Meller,PERSON
+0000398,dfMessenger-009f2969-8a9b-431b-8a92-f841939c8c1d,7,agent,09-8605865,CONTACT_INFO
+0000398,dfMessenger-009f2969-8a9b-431b-8a92-f841939c8c1d,7,agent,09-7490532,CONTACT_INFO
+0000398,dfMessenger-009f2969-8a9b-431b-8a92-f841939c8c1d,7,agent,Nurit Fischer,PERSON
+0000398,dfMessenger-009f2969-8a9b-431b-8a92-f841939c8c1d,7,agent,09-8605864,CONTACT_INFO
+0000398,dfMessenger-009f2969-8a9b-431b-8a92-f841939c8c1d,7,agent,Signage Department,DEPARTMENT
+0000398,dfMessenger-009f2969-8a9b-431b-8a92-f841939c8c1d,7,agent,09-8605879,CONTACT_INFO
+0000398,dfMessenger-009f2969-8a9b-431b-8a92-f841939c8c1d,7,agent,09-8622910,CONTACT_INFO
+0000398,dfMessenger-009f2969-8a9b-431b-8a92-f841939c8c1d,7,agent,Business Licensing Customer Service Department,DEPARTMENT
+0000398,dfMessenger-009f2969-8a9b-431b-8a92-f841939c8c1d,7,agent,09-8605864/20,CONTACT_INFO
+0000398,dfMessenger-009f2969-8a9b-431b-8a92-f841939c8c1d,7,agent,"Business Licensing, Tenders and Signage Division",DEPARTMENT
+0000398,dfMessenger-009f2969-8a9b-431b-8a92-f841939c8c1d,7,agent,"22 Weizman Street, 4th floor, Netanya",LOCATION
