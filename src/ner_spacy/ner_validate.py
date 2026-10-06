@@ -371,7 +371,7 @@ def main():
     ap.add_argument("--concurrency", type=int, default=5)
     ap.add_argument("--model", default="glm-5.3-flash")
     ap.add_argument("--base-url", default="https://api.int2.net/v1")
-    ap.add_argument("--api-key", default="sk-ZY8b20V-_7k-LN2AP3vdww")
+    ap.add_argument("--api-key", default=os.environ.get("GLM_API_KEY", ""))
     ap.add_argument("--mask-pii", action="store_true")
     ap.add_argument("--skip-spacy", action="store_true",
                     help="Only run GLM low vs high")

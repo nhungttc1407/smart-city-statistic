@@ -539,8 +539,7 @@ def main():
                     help="Model name (default: glm-5.3-flash)")
     # ap.add_argument("--base-url", default="https://api.int2.net/v1",
     #                 help="OpenAI-compatible API base URL")
-    # ap.add_argument("--api-key", default="sk-ZY8b20V-_7k-LN2AP3vdww",
-    #                 help="API key")
+    # ap.add_argument("--api-key", ...)
     ap.add_argument("--resume", action="store_true",
                     help="Resume from checkpoint")
     ap.add_argument("--mask-pii", action="store_true",

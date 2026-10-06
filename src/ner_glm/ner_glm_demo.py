@@ -1,10 +1,11 @@
 """Single-sentence NER via int2.net GLM."""
 import json
+import os
 from openai import OpenAI
 
 client = OpenAI(
     base_url="https://api.int2.net/v1",
-    api_key="sk-ZY8b20V-_7k-LN2AP3vdww",
+    api_key=os.environ["GLM_API_KEY"],
 )
 
 SYSTEM = (
